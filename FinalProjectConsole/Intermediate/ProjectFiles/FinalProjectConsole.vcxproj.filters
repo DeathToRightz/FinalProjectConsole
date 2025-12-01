@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\FinalProjectConsole.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FinalProjectConsole.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FinalProjectConsoleEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\FinalProjectConsole">
+      <UniqueIdentifier>{2700E211-F4F4-3752-BE47-3782B9EB1A58}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FinalProjectConsole\FinalProjectConsole.Build.cs">
+      <Filter>Source\FinalProjectConsole</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\FinalProjectConsole\FinalProjectConsole.cpp">
+      <Filter>Source\FinalProjectConsole</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FinalProjectConsole\FinalProjectConsole.h">
+      <Filter>Source\FinalProjectConsole</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FinalProjectConsole\FinalProjectConsoleCameraManager.cpp">
+      <Filter>Source\FinalProjectConsole</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FinalProjectConsole\FinalProjectConsoleCameraManager.h">
+      <Filter>Source\FinalProjectConsole</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FinalProjectConsole\FinalProjectConsoleCharacter.cpp">
+      <Filter>Source\FinalProjectConsole</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FinalProjectConsole\FinalProjectConsoleCharacter.h">
+      <Filter>Source\FinalProjectConsole</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FinalProjectConsole\FinalProjectConsoleGameMode.cpp">
+      <Filter>Source\FinalProjectConsole</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FinalProjectConsole\FinalProjectConsoleGameMode.h">
+      <Filter>Source\FinalProjectConsole</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FinalProjectConsole\FinalProjectConsolePlayerController.cpp">
+      <Filter>Source\FinalProjectConsole</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FinalProjectConsole\FinalProjectConsolePlayerController.h">
+      <Filter>Source\FinalProjectConsole</Filter>
+    </ClInclude>
+    <Filter Include="Source\FinalProjectConsole\Variant_Horror">
+      <UniqueIdentifier>{B8F839CB-9875-3CC8-A374-5483B90C8015}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\FinalProjectConsole\Variant_Horror\HorrorCharacter.cpp">
+      <Filter>Source\FinalProjectConsole\Variant_Horror</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FinalProjectConsole\Variant_Horror\HorrorCharacter.h">
+      <Filter>Source\FinalProjectConsole\Variant_Horror</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FinalProjectConsole\Variant_Horror\HorrorGameMode.cpp">
+      <Filter>Source\FinalProjectConsole\Variant_Horror</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FinalProjectConsole\Variant_Horror\HorrorGameMode.h">
+      <Filter>Source\FinalProjectConsole\Variant_Horror</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FinalProjectConsole\Variant_Horror\HorrorPlayerController.cpp">
+      <Filter>Source\FinalProjectConsole\Variant_Horror</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FinalProjectConsole\Variant_Horror\HorrorPlayerController.h">
+      <Filter>Source\FinalProjectConsole\Variant_Horror</Filter>
+    </ClInclude>
+    <Filter Include="Source\FinalProjectConsole\Variant_Horror\UI">
+      <UniqueIdentifier>{75A1F70B-5066-3352-9CED-A97AD0568CB2}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\FinalProjectConsole\Variant_Horror\UI\HorrorUI.cpp">
+      <Filter>Source\FinalProjectConsole\Variant_Horror\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FinalProjectConsole\Variant_Horror\UI\HorrorUI.h">
+      <Filter>Source\FinalProjectConsole\Variant_Horror\UI</Filter>
+    </ClInclude>
+    <Filter Include="Source\FinalProjectConsole\Variant_Shooter">
+      <UniqueIdentifier>{F56BA028-E18B-3FDD-9C43-0890BD319268}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\FinalProjectConsole\Variant_Shooter\ShooterCharacter.cpp">
+      <Filter>Source\FinalProjectConsole\Variant_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FinalProjectConsole\Variant_Shooter\ShooterCharacter.h">
+      <Filter>Source\FinalProjectConsole\Variant_Shooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FinalProjectConsole\Variant_Shooter\ShooterGameMode.cpp">
+      <Filter>Source\FinalProjectConsole\Variant_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FinalProjectConsole\Variant_Shooter\ShooterGameMode.h">
+      <Filter>Source\FinalProjectConsole\Variant_Shooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FinalProjectConsole\Variant_Shooter\ShooterPlayerController.cpp">
+      <Filter>Source\FinalProjectConsole\Variant_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FinalProjectConsole\Variant_Shooter\ShooterPlayerController.h">
+      <Filter>Source\FinalProjectConsole\Variant_Shooter</Filter>
+    </ClInclude>
+    <Filter Include="Source\FinalProjectConsole\Variant_Shooter\AI">
+      <UniqueIdentifier>{56C59DD4-2750-3A99-9D75-8186C9DEEA0C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\FinalProjectConsole\Variant_Shooter\AI\EnvQueryContext_Target.cpp">
+      <Filter>Source\FinalProjectConsole\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FinalProjectConsole\Variant_Shooter\AI\EnvQueryContext_Target.h">
+      <Filter>Source\FinalProjectConsole\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FinalProjectConsole\Variant_Shooter\AI\ShooterAIController.cpp">
+      <Filter>Source\FinalProjectConsole\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FinalProjectConsole\Variant_Shooter\AI\ShooterAIController.h">
+      <Filter>Source\FinalProjectConsole\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FinalProjectConsole\Variant_Shooter\AI\ShooterNPC.cpp">
+      <Filter>Source\FinalProjectConsole\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FinalProjectConsole\Variant_Shooter\AI\ShooterNPC.h">
+      <Filter>Source\FinalProjectConsole\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FinalProjectConsole\Variant_Shooter\AI\ShooterStateTreeUtility.cpp">
+      <Filter>Source\FinalProjectConsole\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FinalProjectConsole\Variant_Shooter\AI\ShooterStateTreeUtility.h">
+      <Filter>Source\FinalProjectConsole\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <Filter Include="Source\FinalProjectConsole\Variant_Shooter\UI">
+      <UniqueIdentifier>{79CBAF04-7942-3EFA-969E-4253D20FA1F0}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\FinalProjectConsole\Variant_Shooter\UI\ShooterBulletCounterUI.cpp">
+      <Filter>Source\FinalProjectConsole\Variant_Shooter\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FinalProjectConsole\Variant_Shooter\UI\ShooterBulletCounterUI.h">
+      <Filter>Source\FinalProjectConsole\Variant_Shooter\UI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FinalProjectConsole\Variant_Shooter\UI\ShooterUI.cpp">
+      <Filter>Source\FinalProjectConsole\Variant_Shooter\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FinalProjectConsole\Variant_Shooter\UI\ShooterUI.h">
+      <Filter>Source\FinalProjectConsole\Variant_Shooter\UI</Filter>
+    </ClInclude>
+    <Filter Include="Source\FinalProjectConsole\Variant_Shooter\Weapons">
+      <UniqueIdentifier>{15AC813C-2888-36A0-BBAD-2A5EBC6C8623}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\FinalProjectConsole\Variant_Shooter\Weapons\ShooterPickup.cpp">
+      <Filter>Source\FinalProjectConsole\Variant_Shooter\Weapons</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FinalProjectConsole\Variant_Shooter\Weapons\ShooterPickup.h">
+      <Filter>Source\FinalProjectConsole\Variant_Shooter\Weapons</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FinalProjectConsole\Variant_Shooter\Weapons\ShooterProjectile.cpp">
+      <Filter>Source\FinalProjectConsole\Variant_Shooter\Weapons</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FinalProjectConsole\Variant_Shooter\Weapons\ShooterProjectile.h">
+      <Filter>Source\FinalProjectConsole\Variant_Shooter\Weapons</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FinalProjectConsole\Variant_Shooter\Weapons\ShooterWeapon.cpp">
+      <Filter>Source\FinalProjectConsole\Variant_Shooter\Weapons</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FinalProjectConsole\Variant_Shooter\Weapons\ShooterWeapon.h">
+      <Filter>Source\FinalProjectConsole\Variant_Shooter\Weapons</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FinalProjectConsole\Variant_Shooter\Weapons\ShooterWeaponHolder.cpp">
+      <Filter>Source\FinalProjectConsole\Variant_Shooter\Weapons</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FinalProjectConsole\Variant_Shooter\Weapons\ShooterWeaponHolder.h">
+      <Filter>Source\FinalProjectConsole\Variant_Shooter\Weapons</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
