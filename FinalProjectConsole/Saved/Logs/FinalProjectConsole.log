@@ -1143,3 +1143,4 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.01-20.00.16:523][ 94]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
 [2025.12.01-20.00.16:523][ 94]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
 [2025.12.01-20.00.21:960][231]LogSlate: Window 'Revision Control Login' being destroyed
+[2025.12.01-20.01.02:707][510]LogDerivedDataCache: C:/Users/lmcordova1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
