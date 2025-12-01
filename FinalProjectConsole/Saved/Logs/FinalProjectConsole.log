@@ -1144,3 +1144,272 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.01-20.00.16:523][ 94]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
 [2025.12.01-20.00.21:960][231]LogSlate: Window 'Revision Control Login' being destroyed
 [2025.12.01-20.01.02:707][510]LogDerivedDataCache: C:/Users/lmcordova1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.01-20.05.32:786][319]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 354.604218
+[2025.12.01-20.05.33:777][322]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.01-20.05.33:777][322]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 355.262146, Update Interval: 344.287231
+[2025.12.01-20.08.07:318][906]LogSlate: Took 0.011169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.12.01-20.08.08:777][966]LogStatusBar: Looking status bar with open content browser drawer...
+[2025.12.01-20.08.08:777][966]LogStatusBar: Using status bar: LevelEditor.StatusBar to dock content browser
+[2025.12.01-20.08.09:161][966]LogStreaming: Display: FlushAsyncLoading(393): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.01-20.08.09:335][968]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.12.01-20.08.09:750][975]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.12.01-20.08.14:588][315]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2025.12.01-20.08.14:705][315]LogContentBrowser: Creating deferred item: NewWorld
+[2025.12.01-20.08.14:729][316]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2025.12.01-20.08.21:258][582]LogContentBrowser: Attempting asset rename: NewWorld -> Logan_TestLevel
+[2025.12.01-20.08.21:530][582]LogChaosDD: Creating Chaos Debug Draw Scene for world Logan_TestLevel
+[2025.12.01-20.08.21:536][582]LogContentBrowser: End creating deferred item NewWorld
+[2025.12.01-20.08.26:928][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.12.01-20.08.28:209][906]LogSlate: Window 'Save Content' being destroyed
+[2025.12.01-20.08.28:485][906]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.01-20.08.28:508][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.12.01-20.08.28:531][906]LogSavePackage: Moving output files for package: /Game/Logan_TestLevel
+[2025.12.01-20.08.28:531][906]LogSavePackage: Moving '../../../../../../Users/lmcordova1/Documents/GitHub/FinalProjectConsole/FinalProjectConsole/Saved/Logan_TestLevelDCB6940E44A1E33B3BFC63988C7E1F55.tmp' to '../../../../../../Users/lmcordova1/Documents/GitHub/FinalProjectConsole/FinalProjectConsole/Content/Logan_TestLevel.umap'
+[2025.12.01-20.08.29:640][906]LogFileHelpers: Saving map 'Logan_TestLevel' took 1.153
+[2025.12.01-20.08.29:640][906]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.15 sec
+[2025.12.01-20.08.29:642][906]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Logan_TestLevel.Logan_TestLevel
+[2025.12.01-20.08.29:642][906]Cmd: MAP LOAD FILE="../../../../../../Users/lmcordova1/Documents/GitHub/FinalProjectConsole/FinalProjectConsole/Content/Logan_TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.12.01-20.08.29:664][906]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.12.01-20.08.29:664][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.01-20.08.29:664][906]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson
+[2025.12.01-20.08.29:693][906]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.01-20.08.29:697][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.12.01-20.08.29:699][906]LogWorld: UWorld::CleanupWorld for Logan_TestLevel, bSessionEnded=true, bCleanupResources=true
+[2025.12.01-20.08.29:699][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.01-20.08.29:720][906]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.12.01-20.08.29:738][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.12.01-20.08.29:738][906]LogStreaming: Display: FlushAsyncLoading(394): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.01-20.08.29:739][906]LogAudio: Display: Audio Device (ID: 1) registered with world 'Logan_TestLevel'.
+[2025.12.01-20.08.29:739][906]LogChaosDD: Creating Chaos Debug Draw Scene for world Logan_TestLevel
+[2025.12.01-20.08.29:753][906]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.12.01-20.08.29:772][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.12.01-20.08.29:780][906]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.12.01-20.08.29:780][906]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.067ms to complete.
+[2025.12.01-20.08.29:870][906]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.01-20.08.29:870][906]LogContentValidation: Enabled validators:
+[2025.12.01-20.08.29:870][906]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.01-20.08.29:870][906]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.01-20.08.29:870][906]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.01-20.08.29:870][906]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.01-20.08.29:870][906]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.01-20.08.29:870][906]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.01-20.08.29:871][906]AssetCheck: /Game/Logan_TestLevel Validating asset
+[2025.12.01-20.08.35:805][230]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.12.01-20.08.36:839][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.12.01-20.08.36:841][275]LogStreaming: Display: FlushAsyncLoading(395): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.01-20.08.36:844][275]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.12.01-20.08.36:844][275]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.12.01-20.08.36:845][275]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.01-20.08.36:845][275]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.01-20.08.36:875][275]LogWorldPartition: Display: WorldPartition initialize took 31.362 ms (total: 251.798 ms)
+[2025.12.01-20.08.36:878][275]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson
+[2025.12.01-20.08.36:878][275]Cmd: MAP LOAD FILE="../../../../../../Users/lmcordova1/Documents/GitHub/FinalProjectConsole/FinalProjectConsole/Content/FirstPerson/Lvl_FirstPerson.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.12.01-20.08.36:906][275]LogWorld: UWorld::CleanupWorld for Logan_TestLevel, bSessionEnded=true, bCleanupResources=true
+[2025.12.01-20.08.36:906][275]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.01-20.08.36:929][275]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.01-20.08.36:930][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.12.01-20.08.36:931][275]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.12.01-20.08.36:932][275]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.01-20.08.36:932][275]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson
+[2025.12.01-20.08.36:956][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.12.01-20.08.37:042][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.12.01-20.08.37:045][275]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lvl_FirstPerson'.
+[2025.12.01-20.08.37:045][275]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.12.01-20.08.37:047][275]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.12.01-20.08.37:047][275]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.01-20.08.37:047][275]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.01-20.08.37:073][275]LogWorldPartition: Display: WorldPartition initialize took 25.691 ms (total: 277.489 ms)
+[2025.12.01-20.08.37:092][275]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.12.01-20.08.37:114][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.12.01-20.08.37:123][275]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.12.01-20.08.37:124][275]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.626ms to complete.
+[2025.12.01-20.08.48:463][836]LogShaderCompilers: Display: ================================================
+[2025.12.01-20.08.48:463][836]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.01-20.08.48:464][836]LogShaderCompilers: Display: Total job queries 2,562, among them cache hits 667 (26.03%), DDC hits 1,822 (71.12%), Duplicates 72 (2.81%)
+[2025.12.01-20.08.48:464][836]LogShaderCompilers: Display: Tracking 1,823 distinct input hashes that result in 1,147 distinct outputs (62.92%)
+[2025.12.01-20.08.48:464][836]LogShaderCompilers: Display: RAM used: 11.67 MiB of 1.60 GiB budget. Usage: 0.71%
+[2025.12.01-20.08.48:464][836]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.01-20.08.48:464][836]LogShaderCompilers: Display: Shaders Compiled: 1
+[2025.12.01-20.08.48:464][836]LogShaderCompilers: Display: Jobs assigned 1, completed 1 (100%)
+[2025.12.01-20.08.48:464][836]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.07 s
+[2025.12.01-20.08.48:464][836]LogShaderCompilers: Display: Job execution time: average 0.92 s, max 0.92 s
+[2025.12.01-20.08.48:464][836]LogShaderCompilers: Display: Job life time (pending + execution): average 0.99 s, max 0.99
+[2025.12.01-20.08.48:464][836]LogShaderCompilers: Display: Shader code size: total 8.145 KiB, numShaders 1, average 8.145 KiB, min 8.145 KiB, max 8.145 KiB
+[2025.12.01-20.08.48:464][836]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.99 s
+[2025.12.01-20.08.48:464][836]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.21%
+[2025.12.01-20.08.48:464][836]LogShaderCompilers: Display: Jobs were issued in 1 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.12.01-20.08.48:464][836]LogShaderCompilers: Display: Average processing rate: 1.01 jobs/sec
+[2025.12.01-20.08.48:464][836]LogShaderCompilers: Display: Total thread time: 0.618 s
+[2025.12.01-20.08.48:464][836]LogShaderCompilers: Display: Total thread preprocess time: 83.222 s
+[2025.12.01-20.08.48:464][836]LogShaderCompilers: Display: Percentage time preprocessing: 13459.79%
+[2025.12.01-20.08.48:464][836]LogShaderCompilers: Display: Effective parallelization: 0.63 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.078277
+[2025.12.01-20.08.48:464][836]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.01-20.08.48:464][836]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.62 sec, max 0.62 sec, min 0.62 sec)
+[2025.12.01-20.08.48:464][836]LogShaderCompilers: Display:                                 TVirtualTextureVSWorldHeight (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.12.01-20.08.48:464][836]LogShaderCompilers: Display:                                   TVirtualTextureVSBaseColor (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.12.01-20.08.48:464][836]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.12.01-20.08.48:464][836]LogShaderCompilers: Display:                                 TVirtualTexturePSWorldHeight (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.12.01-20.08.48:464][836]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.01-20.08.48:464][836]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 100.00% of total time (compiled    1 times, average 0.62 sec, max 0.62 sec, min 0.62 sec)
+[2025.12.01-20.08.48:464][836]LogShaderCompilers: Display:                                   TVirtualTextureVSBaseColor - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.12.01-20.08.48:464][836]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.12.01-20.08.48:464][836]LogShaderCompilers: Display:                                 TVirtualTexturePSWorldHeight - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.12.01-20.08.48:464][836]LogShaderCompilers: Display:                                   TVirtualTexturePSBaseColor - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.12.01-20.08.48:464][836]LogShaderCompilers: Display: === Material stats ===
+[2025.12.01-20.08.48:464][836]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.01-20.08.48:464][836]LogShaderCompilers: Display: Materials Translated:    144
+[2025.12.01-20.08.48:464][836]LogShaderCompilers: Display: Material Total Translate Time: 0.20 s
+[2025.12.01-20.08.48:464][836]LogShaderCompilers: Display: Material Translation Only: 0.09 s (45%)
+[2025.12.01-20.08.48:464][836]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.12.01-20.08.48:464][836]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.12.01-20.08.48:465][836]LogShaderCompilers: Display: ================================================
+[2025.12.01-20.08.49:095][863]Cmd: EDIT COPY
+[2025.12.01-20.08.51:913][985]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.12.01-20.08.51:916][985]LogStreaming: Display: FlushAsyncLoading(523): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.01-20.08.51:917][985]LogChaosDD: Creating Chaos Debug Draw Scene for world Logan_TestLevel
+[2025.12.01-20.08.51:919][985]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Logan_TestLevel.Logan_TestLevel
+[2025.12.01-20.08.51:919][985]Cmd: MAP LOAD FILE="../../../../../../Users/lmcordova1/Documents/GitHub/FinalProjectConsole/FinalProjectConsole/Content/Logan_TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.12.01-20.08.51:945][985]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.12.01-20.08.51:945][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.01-20.08.51:945][985]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson
+[2025.12.01-20.08.51:979][985]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.01-20.08.51:982][985]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.12.01-20.08.51:983][985]LogWorld: UWorld::CleanupWorld for Logan_TestLevel, bSessionEnded=true, bCleanupResources=true
+[2025.12.01-20.08.51:984][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.01-20.08.52:003][985]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.12.01-20.08.52:142][985]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.12.01-20.08.52:143][985]LogAudio: Display: Audio Device (ID: 1) registered with world 'Logan_TestLevel'.
+[2025.12.01-20.08.52:143][985]LogChaosDD: Creating Chaos Debug Draw Scene for world Logan_TestLevel
+[2025.12.01-20.08.52:158][985]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.12.01-20.08.52:176][985]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.12.01-20.08.52:184][985]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.12.01-20.08.52:185][985]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.06ms to complete.
+[2025.12.01-20.08.52:955][ 27]Cmd: EDIT PASTE
+[2025.12.01-20.08.53:063][ 27]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.12.01-20.08.56:266][153]Cmd: SELECT NONE
+[2025.12.01-20.09.01:389][375]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.01-20.09.01:402][375]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.01-20.09.01:404][375]LogPlayLevel: Display: Creating online subsystem for client :Context_4
+[2025.12.01-20.09.01:407][375]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2025.12.01-20.09.01:447][376]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Logan_TestLevel
+[2025.12.01-20.09.01:456][376]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009050s)
+[2025.12.01-20.09.01:456][376]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Logan_TestLevel.Logan_TestLevel to /Game/UEDPIE_0_Logan_TestLevel.Logan_TestLevel (0.009154s)
+[2025.12.01-20.09.01:478][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.12.01-20.09.01:482][376]LogChaosDD: Creating Chaos Debug Draw Scene for world Logan_TestLevel
+[2025.12.01-20.09.01:485][376]LogPlayLevel: PIE: World Init took: (0.003006s)
+[2025.12.01-20.09.01:487][376]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.12.01-20.09.01:487][376]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.01-20.09.01:487][376]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.01-20.09.01:487][376]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.01-20.09.01:487][376]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.01-20.09.01:487][376]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.01-20.09.01:487][376]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.01-20.09.01:487][376]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.01-20.09.01:487][376]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.01-20.09.01:487][376]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.01-20.09.01:487][376]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.01-20.09.01:487][376]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.01-20.09.01:489][376]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.01-20.09.01:525][376]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Dell AC511 USB SoundBar)
+[2025.12.01-20.09.01:526][376]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.01-20.09.01:526][376]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.01-20.09.01:526][376]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.01-20.09.01:526][376]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.12.01-20.09.01:526][376]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.12.01-20.09.01:529][376]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.12.01-20.09.01:529][376]LogInit: FAudioDevice initialized with ID 2.
+[2025.12.01-20.09.01:529][376]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.12.01-20.09.01:529][376]LogAudio: Display: Audio Device (ID: 2) registered with world 'Logan_TestLevel'.
+[2025.12.01-20.09.01:529][376]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.12.01-20.09.01:535][376]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.12.01-20.09.01:540][376]LogWorld: Bringing World /Game/UEDPIE_0_Logan_TestLevel.Logan_TestLevel up for play (max tick rate 0) at 2025.12.01-15.09.01
+[2025.12.01-20.09.01:540][376]LogWorld: Bringing up level for play took: 0.003357
+[2025.12.01-20.09.01:573][376]PIE: Server logged in
+[2025.12.01-20.09.01:576][376]PIE: Play in editor total start time 0.178 seconds.
+[2025.12.01-20.09.01:878][379]LogPSOHitching: Encountered 50 PSO creation hitches so far (39 graphics, 11 compute). 0 of them were precached.
+[2025.12.01-20.09.04:643][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.01-20.09.04:643][485]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Logan_TestLevel
+[2025.12.01-20.09.04:643][485]LogWorld: UWorld::CleanupWorld for Logan_TestLevel, bSessionEnded=true, bCleanupResources=true
+[2025.12.01-20.09.04:644][485]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.01-20.09.04:652][485]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.01-20.09.04:655][485]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.01-20.09.04:676][485]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.01-20.09.04:676][485]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.12.01-20.09.04:676][485]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2025.12.01-20.09.04:678][485]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2025.12.01-20.09.04:683][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.01-20.09.04:685][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.12.01-20.09.04:761][486]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2025.12.01-20.09.06:452][550]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.12.01-20.09.07:790][550]LogSlate: Window 'Save Content' being destroyed
+[2025.12.01-20.09.08:024][550]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.01-20.09.08:135][550]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.12.01-20.09.08:170][550]LogSavePackage: Moving output files for package: /Game/Logan_TestLevel
+[2025.12.01-20.09.08:171][550]LogSavePackage: Moving '../../../../../../Users/lmcordova1/Documents/GitHub/FinalProjectConsole/FinalProjectConsole/Saved/Logan_TestLevel6D04CCC84711CDC77066ED9DC0764F0E.tmp' to '../../../../../../Users/lmcordova1/Documents/GitHub/FinalProjectConsole/FinalProjectConsole/Content/Logan_TestLevel.umap'
+[2025.12.01-20.09.08:186][550]LogFileHelpers: Saving map 'Logan_TestLevel' took 0.098
+[2025.12.01-20.09.08:204][550]LogFileHelpers: InternalPromptForCheckoutAndSave took 180.294 ms (total: 1.33 sec)
+[2025.12.01-20.09.08:272][550]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.01-20.09.08:272][550]LogContentValidation: Enabled validators:
+[2025.12.01-20.09.08:272][550]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.01-20.09.08:272][550]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.01-20.09.08:272][550]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.01-20.09.08:272][550]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.01-20.09.08:272][550]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.01-20.09.08:272][550]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.01-20.09.08:272][550]AssetCheck: /Game/Logan_TestLevel Validating asset
+[2025.12.01-20.09.10:570][635]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.12.01-20.09.33:460][531]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.01-20.09.33:541][531]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.12.01-20.09.33:573][531]LogSavePackage: Moving output files for package: /Game/Logan_TestLevel
+[2025.12.01-20.09.33:574][531]LogSavePackage: Moving '../../../../../../Users/lmcordova1/Documents/GitHub/FinalProjectConsole/FinalProjectConsole/Saved/Logan_TestLevel8E335EF3444B96C48AEA7B887F82CCE2.tmp' to '../../../../../../Users/lmcordova1/Documents/GitHub/FinalProjectConsole/FinalProjectConsole/Content/Logan_TestLevel.umap'
+[2025.12.01-20.09.33:586][531]LogFileHelpers: Saving map 'Logan_TestLevel' took 0.086
+[2025.12.01-20.09.33:600][531]LogFileHelpers: InternalPromptForCheckoutAndSave took 139.968 ms (total: 1.47 sec)
+[2025.12.01-20.09.33:666][531]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.01-20.09.33:666][531]LogContentValidation: Enabled validators:
+[2025.12.01-20.09.33:666][531]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.01-20.09.33:666][531]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.01-20.09.33:666][531]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.01-20.09.33:666][531]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.01-20.09.33:666][531]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.01-20.09.33:666][531]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.01-20.09.33:666][531]AssetCheck: /Game/Logan_TestLevel Validating asset
+[2025.12.01-20.09.37:796][685]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.12.01-20.09.37:815][685]LogContentBrowser: Creating deferred item: NewFolder
+[2025.12.01-20.09.37:836][686]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.12.01-20.09.41:973][853]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2025.12.01-20.09.41:973][853]LogContentBrowser: End creating deferred item NewFolder
+[2025.12.01-20.09.56:996][330]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.12.01-20.09.57:014][330]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.12.01-20.09.57:022][330]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.12.01-20.09.57:052][331]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.12.01-20.10.04:790][639]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WP_MainMenu
+[2025.12.01-20.10.05:109][639]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.12.01-20.10.06:727][698]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/WP_MainMenu.WP_MainMenu
+[2025.12.01-20.10.06:728][698]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.12.01-20.10.06:738][698]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.12.01-20.10.06:750][698]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2025.12.01-20.10.06:946][698]LogStreaming: Display: FlushAsyncLoading(525): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.01-20.10.08:930][698]LogSlate: Took 0.009855 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.12.01-20.10.08:963][698]LogSlate: Took 0.010534 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.12.01-20.11.20:546][ 29]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 702.365540
+[2025.12.01-20.11.21:547][ 32]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.01-20.11.21:547][ 32]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 703.031433, Update Interval: 324.983673
+[2025.12.01-20.11.49:255][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.12.01-20.11.50:188][115]LogSlate: Window 'Save Content' being destroyed
+[2025.12.01-20.11.50:423][115]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.01-20.11.50:481][115]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WP_MainMenu] ([2] browsable assets)...
+[2025.12.01-20.11.50:488][115]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WP_MainMenu.WP_MainMenu]
+[2025.12.01-20.11.50:488][115]OBJ SavePackage: Finished generating thumbnails for package [/Game/WP_MainMenu]
+[2025.12.01-20.11.50:488][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WP_MainMenu" FILE="../../../../../../Users/lmcordova1/Documents/GitHub/FinalProjectConsole/FinalProjectConsole/Content/WP_MainMenu.uasset" SILENT=true
+[2025.12.01-20.11.50:506][115]LogSavePackage: Moving output files for package: /Game/WP_MainMenu
+[2025.12.01-20.11.50:506][115]LogSavePackage: Moving '../../../../../../Users/lmcordova1/Documents/GitHub/FinalProjectConsole/FinalProjectConsole/Saved/WP_MainMenuCC58A2D8471C9831ED9694806F8E61CC.tmp' to '../../../../../../Users/lmcordova1/Documents/GitHub/FinalProjectConsole/FinalProjectConsole/Content/WP_MainMenu.uasset'
+[2025.12.01-20.11.51:434][115]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.00 sec (total: 2.48 sec)
+[2025.12.01-20.11.51:516][115]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.01-20.11.51:516][115]LogContentValidation: Enabled validators:
+[2025.12.01-20.11.51:516][115]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.01-20.11.51:516][115]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.01-20.11.51:516][115]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.01-20.11.51:516][115]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.01-20.11.51:516][115]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.01-20.11.51:516][115]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.01-20.11.51:516][115]AssetCheck: /Game/WP_MainMenu Validating asset
