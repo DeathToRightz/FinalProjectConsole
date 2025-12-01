@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-FinalConsoleProj.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/lmcordova1/Documents/GitHub/FinalProjectConsole/FinalConsoleProj/Intermediate/Build/Win64/x64/FinalConsoleProjEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/lmcordova1/Documents/GitHub/FinalProjectConsole/FinalConsoleProj/Intermediate/Build/Win64/x64/UnrealEditor/Development/FinalConsoleProj/Module.FinalConsoleProj.cpp.obj"
+"C:/Users/lmcordova1/Documents/GitHub/FinalProjectConsole/FinalConsoleProj/Intermediate/Build/Win64/x64/UnrealEditor/Development/FinalConsoleProj/Default.rc2.res"
+/OUT:"C:/Users/lmcordova1/Documents/GitHub/FinalProjectConsole/FinalConsoleProj/Intermediate/Build/Win64/x64/UnrealEditor/Development/FinalConsoleProj/UnrealEditor-FinalConsoleProj.lib"
