@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\lmcordova1\\documents\\github\\finalprojectconsole\\finalprojectconsole\\source\\finalprojectconsole\\health_component.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\lmcordova1\\documents\\github\\finalprojectconsole\\finalprojectconsole\\intermediate\\build\\win64\\x64\\finalprojectconsoleeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\lmcordova1\\documents\\github\\finalprojectconsole\\finalprojectconsole\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\finalprojectconsole\\definitions.finalprojectconsole.h",
+            "c:\\users\\lmcordova1\\documents\\github\\finalprojectconsole\\finalprojectconsole\\source\\finalprojectconsole\\health_component.h",
+            "c:\\users\\lmcordova1\\documents\\github\\finalprojectconsole\\finalprojectconsole\\intermediate\\build\\win64\\unrealeditor\\inc\\finalprojectconsole\\uht\\health_component.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
