@@ -215,14 +215,14 @@ UShooterBulletCounterUI::~UShooterBulletCounterUI() {}
 // ********** End Class UShooterBulletCounterUI ****************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Users_logan_OneDrive_Documents_GitHub_FinalProjectConsole_FinalProjectConsole_Source_FinalProjectConsole_Variant_Shooter_UI_ShooterBulletCounterUI_h__Script_FinalProjectConsole_Statics
+struct Z_CompiledInDeferFile_FID_Users_lmcordova1_Documents_GitHub_FinalProjectConsole_FinalProjectConsole_Source_FinalProjectConsole_Variant_Shooter_UI_ShooterBulletCounterUI_h__Script_FinalProjectConsole_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_UShooterBulletCounterUI, UShooterBulletCounterUI::StaticClass, TEXT("UShooterBulletCounterUI"), &Z_Registration_Info_UClass_UShooterBulletCounterUI, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UShooterBulletCounterUI), 3926181664U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_logan_OneDrive_Documents_GitHub_FinalProjectConsole_FinalProjectConsole_Source_FinalProjectConsole_Variant_Shooter_UI_ShooterBulletCounterUI_h__Script_FinalProjectConsole_2296444784(TEXT("/Script/FinalProjectConsole"),
-	Z_CompiledInDeferFile_FID_Users_logan_OneDrive_Documents_GitHub_FinalProjectConsole_FinalProjectConsole_Source_FinalProjectConsole_Variant_Shooter_UI_ShooterBulletCounterUI_h__Script_FinalProjectConsole_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_logan_OneDrive_Documents_GitHub_FinalProjectConsole_FinalProjectConsole_Source_FinalProjectConsole_Variant_Shooter_UI_ShooterBulletCounterUI_h__Script_FinalProjectConsole_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_lmcordova1_Documents_GitHub_FinalProjectConsole_FinalProjectConsole_Source_FinalProjectConsole_Variant_Shooter_UI_ShooterBulletCounterUI_h__Script_FinalProjectConsole_2296444784(TEXT("/Script/FinalProjectConsole"),
+	Z_CompiledInDeferFile_FID_Users_lmcordova1_Documents_GitHub_FinalProjectConsole_FinalProjectConsole_Source_FinalProjectConsole_Variant_Shooter_UI_ShooterBulletCounterUI_h__Script_FinalProjectConsole_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_lmcordova1_Documents_GitHub_FinalProjectConsole_FinalProjectConsole_Source_FinalProjectConsole_Variant_Shooter_UI_ShooterBulletCounterUI_h__Script_FinalProjectConsole_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************

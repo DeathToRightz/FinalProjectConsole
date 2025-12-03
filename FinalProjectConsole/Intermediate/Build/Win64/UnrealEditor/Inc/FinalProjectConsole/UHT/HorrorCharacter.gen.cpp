@@ -410,14 +410,14 @@ AHorrorCharacter::~AHorrorCharacter() {}
 // ********** End Class AHorrorCharacter ***********************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Users_logan_OneDrive_Documents_GitHub_FinalProjectConsole_FinalProjectConsole_Source_FinalProjectConsole_Variant_Horror_HorrorCharacter_h__Script_FinalProjectConsole_Statics
+struct Z_CompiledInDeferFile_FID_Users_lmcordova1_Documents_GitHub_FinalProjectConsole_FinalProjectConsole_Source_FinalProjectConsole_Variant_Horror_HorrorCharacter_h__Script_FinalProjectConsole_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_AHorrorCharacter, AHorrorCharacter::StaticClass, TEXT("AHorrorCharacter"), &Z_Registration_Info_UClass_AHorrorCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AHorrorCharacter), 3812768998U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_logan_OneDrive_Documents_GitHub_FinalProjectConsole_FinalProjectConsole_Source_FinalProjectConsole_Variant_Horror_HorrorCharacter_h__Script_FinalProjectConsole_859082668(TEXT("/Script/FinalProjectConsole"),
-	Z_CompiledInDeferFile_FID_Users_logan_OneDrive_Documents_GitHub_FinalProjectConsole_FinalProjectConsole_Source_FinalProjectConsole_Variant_Horror_HorrorCharacter_h__Script_FinalProjectConsole_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_logan_OneDrive_Documents_GitHub_FinalProjectConsole_FinalProjectConsole_Source_FinalProjectConsole_Variant_Horror_HorrorCharacter_h__Script_FinalProjectConsole_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_lmcordova1_Documents_GitHub_FinalProjectConsole_FinalProjectConsole_Source_FinalProjectConsole_Variant_Horror_HorrorCharacter_h__Script_FinalProjectConsole_859082668(TEXT("/Script/FinalProjectConsole"),
+	Z_CompiledInDeferFile_FID_Users_lmcordova1_Documents_GitHub_FinalProjectConsole_FinalProjectConsole_Source_FinalProjectConsole_Variant_Horror_HorrorCharacter_h__Script_FinalProjectConsole_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_lmcordova1_Documents_GitHub_FinalProjectConsole_FinalProjectConsole_Source_FinalProjectConsole_Variant_Horror_HorrorCharacter_h__Script_FinalProjectConsole_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************
