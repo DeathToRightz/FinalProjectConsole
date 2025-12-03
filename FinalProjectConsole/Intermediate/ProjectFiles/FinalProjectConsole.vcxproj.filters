@@ -11,7 +11,6 @@
     <None Include="..\..\Source\FinalProjectConsoleEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
-    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -64,12 +63,6 @@
       <Filter>Source\FinalProjectConsole</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\FinalProjectConsole\FinalProjectConsolePlayerController.h">
-      <Filter>Source\FinalProjectConsole</Filter>
-    </ClInclude>
-    <ClCompile Include="..\..\Source\FinalProjectConsole\Health_Component.cpp">
-      <Filter>Source\FinalProjectConsole</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\FinalProjectConsole\Health_Component.h">
       <Filter>Source\FinalProjectConsole</Filter>
     </ClInclude>
     <Filter Include="Source\FinalProjectConsole\Variant_Horror">

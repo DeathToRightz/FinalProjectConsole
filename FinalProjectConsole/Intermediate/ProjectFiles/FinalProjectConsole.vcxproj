@@ -252,7 +252,6 @@
     <None Include="..\..\FinalProjectConsole.uproject"/>
     <None Include="..\..\Source\FinalProjectConsole.Target.cs"/>
     <None Include="..\..\Source\FinalProjectConsoleEditor.Target.cs"/>
-    <None Include="..\..\.vsconfig"/>
     <None Include="..\..\Config\DefaultEditor.ini"/>
     <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini"/>
     <None Include="..\..\Config\DefaultEngine.ini"/>
@@ -279,10 +278,6 @@
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <ClInclude Include="..\..\Source\FinalProjectConsole\FinalProjectConsolePlayerController.h"/>
-    <ClCompile Include="..\..\Source\FinalProjectConsole\Health_Component.cpp">
-      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\FinalProjectConsole\Health_Component.h"/>
     <ClCompile Include="..\..\Source\FinalProjectConsole\Variant_Horror\HorrorCharacter.cpp">
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
