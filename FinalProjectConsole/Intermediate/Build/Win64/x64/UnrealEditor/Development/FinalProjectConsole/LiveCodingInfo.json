@@ -2,6 +2,7 @@
 	"RemapUnityFiles": 
 	{
 		"Module.FinalProjectConsole.cpp.obj": [
+			"Trap.gen.cpp.obj",
 			"PerModuleInline.gen.cpp.obj",
 			"FinalProjectConsole.cpp.obj",
 			"FinalProjectConsoleCameraManager.cpp.obj",
@@ -31,6 +32,7 @@
 			"FinalProjectConsoleCharacter.gen.cpp.obj",
 			"FinalProjectConsoleGameMode.gen.cpp.obj",
 			"FinalProjectConsolePlayerController.gen.cpp.obj",
+			"Health_Component.gen.cpp.obj",
 			"HorrorCharacter.gen.cpp.obj",
 			"HorrorGameMode.gen.cpp.obj",
 			"HorrorPlayerController.gen.cpp.obj",
@@ -46,7 +48,9 @@
 			"ShooterStateTreeUtility.gen.cpp.obj",
 			"ShooterUI.gen.cpp.obj",
 			"ShooterWeapon.gen.cpp.obj",
-			"ShooterWeaponHolder.gen.cpp.obj"
+			"ShooterWeaponHolder.gen.cpp.obj",
+			"Health_Component.cpp.obj",
+			"Trap.cpp.obj"
 		]
 	}
 }

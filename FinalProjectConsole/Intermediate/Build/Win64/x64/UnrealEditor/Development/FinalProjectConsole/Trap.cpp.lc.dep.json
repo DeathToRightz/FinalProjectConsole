@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\logan\\onedrive\\documents\\github\\finalprojectconsole\\finalprojectconsole\\source\\finalprojectconsole\\trap.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\logan\\onedrive\\documents\\github\\finalprojectconsole\\finalprojectconsole\\intermediate\\build\\win64\\x64\\finalprojectconsoleeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\logan\\onedrive\\documents\\github\\finalprojectconsole\\finalprojectconsole\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\finalprojectconsole\\definitions.finalprojectconsole.h",
+            "c:\\users\\logan\\onedrive\\documents\\github\\finalprojectconsole\\finalprojectconsole\\source\\finalprojectconsole\\trap.h",
+            "c:\\users\\logan\\onedrive\\documents\\github\\finalprojectconsole\\finalprojectconsole\\intermediate\\build\\win64\\unrealeditor\\inc\\finalprojectconsole\\uht\\trap.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
