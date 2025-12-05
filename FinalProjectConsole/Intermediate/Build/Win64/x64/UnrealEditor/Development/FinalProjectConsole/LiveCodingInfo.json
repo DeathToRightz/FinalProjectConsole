@@ -23,12 +23,15 @@
 			"ShooterUI.gen.cpp.obj",
 			"ShooterWeapon.gen.cpp.obj",
 			"ShooterWeaponHolder.gen.cpp.obj",
+			"Trap.gen.cpp.obj",
 			"PerModuleInline.gen.cpp.obj",
 			"FinalProjectConsole.cpp.obj",
 			"FinalProjectConsoleCameraManager.cpp.obj",
 			"FinalProjectConsoleCharacter.cpp.obj",
 			"FinalProjectConsoleGameMode.cpp.obj",
 			"FinalProjectConsolePlayerController.cpp.obj",
+			"Health_Component.cpp.obj",
+			"Trap.cpp.obj",
 			"HorrorCharacter.cpp.obj",
 			"HorrorGameMode.cpp.obj",
 			"HorrorPlayerController.cpp.obj",
@@ -47,10 +50,7 @@
 			"ShooterWeapon.cpp.obj",
 			"ShooterWeaponHolder.cpp.obj",
 			"FinalProjectConsole.init.gen.cpp.obj",
-			"Health_Component.gen.cpp.obj",
-			"Trap.gen.cpp.obj",
-			"Health_Component.cpp.obj",
-			"Trap.cpp.obj"
+			"Health_Component.gen.cpp.obj"
 		]
 	}
 }
