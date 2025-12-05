@@ -86,12 +86,42 @@ DEFINE_FUNCTION(UHealth_Component::execTakeDamage)
 }
 // ********** End Class UHealth_Component Function TakeDamage **************************************
 
+// ********** Begin Class UHealth_Component Function TakeDamageDelay *******************************
+struct Z_Construct_UFunction_UHealth_Component_TakeDamageDelay_Statics
+{
+#if WITH_METADATA
+	static constexpr UECodeGen_Private::FMetaDataPairParam Function_MetaDataParams[] = {
+		{ "ModuleRelativePath", "Health_Component.h" },
+	};
+#endif // WITH_METADATA
+	static const UECodeGen_Private::FFunctionParams FuncParams;
+};
+const UECodeGen_Private::FFunctionParams Z_Construct_UFunction_UHealth_Component_TakeDamageDelay_Statics::FuncParams = { { (UObject*(*)())Z_Construct_UClass_UHealth_Component, nullptr, "TakeDamageDelay", nullptr, 0, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x00020401, 0, 0, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UFunction_UHealth_Component_TakeDamageDelay_Statics::Function_MetaDataParams), Z_Construct_UFunction_UHealth_Component_TakeDamageDelay_Statics::Function_MetaDataParams)},  };
+UFunction* Z_Construct_UFunction_UHealth_Component_TakeDamageDelay()
+{
+	static UFunction* ReturnFunction = nullptr;
+	if (!ReturnFunction)
+	{
+		UECodeGen_Private::ConstructUFunction(&ReturnFunction, Z_Construct_UFunction_UHealth_Component_TakeDamageDelay_Statics::FuncParams);
+	}
+	return ReturnFunction;
+}
+DEFINE_FUNCTION(UHealth_Component::execTakeDamageDelay)
+{
+	P_FINISH;
+	P_NATIVE_BEGIN;
+	P_THIS->TakeDamageDelay();
+	P_NATIVE_END;
+}
+// ********** End Class UHealth_Component Function TakeDamageDelay *********************************
+
 // ********** Begin Class UHealth_Component ********************************************************
 void UHealth_Component::StaticRegisterNativesUHealth_Component()
 {
 	UClass* Class = UHealth_Component::StaticClass();
 	static const FNameNativePtrPair Funcs[] = {
 		{ "TakeDamage", &UHealth_Component::execTakeDamage },
+		{ "TakeDamageDelay", &UHealth_Component::execTakeDamageDelay },
 	};
 	FNativeFunctionRegistrar::RegisterFunctions(Class, Funcs, UE_ARRAY_COUNT(Funcs));
 }
@@ -151,6 +181,7 @@ struct Z_Construct_UClass_UHealth_Component_Statics
 	static UObject* (*const DependentSingletons[])();
 	static constexpr FClassFunctionLinkInfo FuncInfo[] = {
 		{ &Z_Construct_UFunction_UHealth_Component_TakeDamage, "TakeDamage" }, // 2933287130
+		{ &Z_Construct_UFunction_UHealth_Component_TakeDamageDelay, "TakeDamageDelay" }, // 3605032474
 	};
 	static_assert(UE_ARRAY_COUNT(FuncInfo) < 2048);
 	static constexpr FCppClassTypeInfoStatic StaticCppClassTypeInfo = {
@@ -203,10 +234,10 @@ UHealth_Component::~UHealth_Component() {}
 struct Z_CompiledInDeferFile_FID_Users_logan_OneDrive_Documents_GitHub_FinalProjectConsole_FinalProjectConsole_Source_FinalProjectConsole_Health_Component_h__Script_FinalProjectConsole_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_UHealth_Component, UHealth_Component::StaticClass, TEXT("UHealth_Component"), &Z_Registration_Info_UClass_UHealth_Component, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UHealth_Component), 1490403343U) },
+		{ Z_Construct_UClass_UHealth_Component, UHealth_Component::StaticClass, TEXT("UHealth_Component"), &Z_Registration_Info_UClass_UHealth_Component, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UHealth_Component), 1199248339U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_logan_OneDrive_Documents_GitHub_FinalProjectConsole_FinalProjectConsole_Source_FinalProjectConsole_Health_Component_h__Script_FinalProjectConsole_431015783(TEXT("/Script/FinalProjectConsole"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_logan_OneDrive_Documents_GitHub_FinalProjectConsole_FinalProjectConsole_Source_FinalProjectConsole_Health_Component_h__Script_FinalProjectConsole_472554063(TEXT("/Script/FinalProjectConsole"),
 	Z_CompiledInDeferFile_FID_Users_logan_OneDrive_Documents_GitHub_FinalProjectConsole_FinalProjectConsole_Source_FinalProjectConsole_Health_Component_h__Script_FinalProjectConsole_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_logan_OneDrive_Documents_GitHub_FinalProjectConsole_FinalProjectConsole_Source_FinalProjectConsole_Health_Component_h__Script_FinalProjectConsole_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);

@@ -2,6 +2,7 @@
 
 #pragma once
 
+#include "TimerManager.h"
 #include "CoreMinimal.h"
 #include "Components/ActorComponent.h"
 #include "Health_Component.generated.h"
@@ -23,6 +24,11 @@ public:
 
 	UPROPERTY()
 	AActor* Owner;	
+
+	UFUNCTION()
+	void TakeDamageDelay();
+
+	bool CanBeDamaged = true;
 protected:
 	
 	// Called when the game starts
@@ -30,6 +36,8 @@ protected:
 
 	UPROPERTY()
 	float  Health;
+
+	FTimerHandle TimerHandle;
 		
 public:	
 	// Called every frame

@@ -13,8 +13,15 @@ UHealth_Component::UHealth_Component()
 	if (!Owner) { return; }
 	else
 	{
+			GEngine->AddOnScreenDebugMessage
+	(
+		-1,
+		3.0f,
+		FColor::Red,
+		FString::Printf(TEXT("Owner Found"))
+	);
+
 		Owner->OnTakeAnyDamage.AddDynamic(this, &UHealth_Component::TakeDamage); //Bind the function
-		Health = MaxHealth; //Sets health for attached actor
 	}
 }
 
@@ -22,8 +29,9 @@ UHealth_Component::UHealth_Component()
 void UHealth_Component::BeginPlay()
 {
 	Super::BeginPlay();
+	Health = MaxHealth; //Sets health for attached actor
 
-
+	UE_LOG(LogTemp, Warning, TEXT("Current Health, %f"), Health);
 	
 }
 
@@ -38,7 +46,10 @@ void UHealth_Component::TickComponent(float DeltaTime, ELevelTick TickType, FAct
 
 void UHealth_Component::TakeDamage(AActor* DamagedActor, float Damage, const UDamageType* DamageType, AController* InstigateBy, AActor* DamageCauser)
 {
-	if (Damage <= 0 || Health <= 0) { return; } //Doesn't deal damage if actor is "dead" or no damage is being applied
+	
+	if (Damage <= 0 || Health <= 0) return;  //Doesn't deal damage if actor is "dead" or no damage is being applied
+
+	if (!CanBeDamaged) return;
 
 	Health = FMath::Clamp(Health - Damage, 0, Health); //Makes sure health doesn't go below 0
 
@@ -48,5 +59,19 @@ void UHealth_Component::TakeDamage(AActor* DamagedActor, float Damage, const UDa
 		3.0f,
 		FColor::Red,
 		FString::Printf(TEXT("Current Health: %f"), Health)
+	);
+	
+	
+}
+
+void UHealth_Component::TakeDamageDelay()
+{
+	CanBeDamaged = !CanBeDamaged;
+	GEngine->AddOnScreenDebugMessage
+	(
+		-1,
+		3.0f,
+		FColor::Red,
+		FString::Printf(TEXT("Can be damaged"))
 	);
 }
