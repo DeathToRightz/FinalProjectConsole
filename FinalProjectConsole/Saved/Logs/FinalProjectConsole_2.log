@@ -1075,3 +1075,4 @@ Make sure '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCh
 [2025.12.05-02.52.38:243][476]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 113122.69 ms.
 [2025.12.05-02.52.40:744][476]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 115622.76 ms.
 [2025.12.05-02.52.40:800][476]LogDerivedDataCache: C:/Users/logan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.05-03.52.40:801][476]LogDerivedDataCache: C:/Users/logan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
