@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\logan\\OneDrive\\Documents\\GitHub\\FinalProjectConsole\\FinalProjectConsole\\Source\\FinalProjectConsole\\FinalProjectConsole.Build.cs",
-		"C:\\Users\\logan\\OneDrive\\Documents\\GitHub\\FinalProjectConsole\\FinalProjectConsole\\Source\\FinalProjectConsole.Target.cs",
-		"C:\\Users\\logan\\OneDrive\\Documents\\GitHub\\FinalProjectConsole\\FinalProjectConsole\\Source\\FinalProjectConsoleEditor.Target.cs"
+		"D:\\FinalProjectConsole\\FinalProjectConsole\\Source\\FinalProjectConsole\\FinalProjectConsole.Build.cs",
+		"D:\\FinalProjectConsole\\FinalProjectConsole\\Source\\FinalProjectConsole.Target.cs",
+		"D:\\FinalProjectConsole\\FinalProjectConsole\\Source\\FinalProjectConsoleEditor.Target.cs"
 	],
 	"EngineVersion": "5.6.1"
 }
