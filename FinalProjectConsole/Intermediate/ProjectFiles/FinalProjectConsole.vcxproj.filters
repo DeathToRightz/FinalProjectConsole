@@ -11,6 +11,7 @@
     <None Include="..\..\Source\FinalProjectConsoleEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -32,6 +33,12 @@
     <Filter Include="Source\FinalProjectConsole">
       <UniqueIdentifier>{2700E211-F4F4-3752-BE47-3782B9EB1A58}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\FinalProjectConsole\EnemyController.cpp">
+      <Filter>Source\FinalProjectConsole</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FinalProjectConsole\EnemyController.h">
+      <Filter>Source\FinalProjectConsole</Filter>
+    </ClInclude>
     <None Include="..\..\Source\FinalProjectConsole\FinalProjectConsole.Build.cs">
       <Filter>Source\FinalProjectConsole</Filter>
     </None>

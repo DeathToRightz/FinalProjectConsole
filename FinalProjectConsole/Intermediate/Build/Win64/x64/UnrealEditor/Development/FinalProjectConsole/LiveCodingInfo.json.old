@@ -2,6 +2,7 @@
 	"RemapUnityFiles": 
 	{
 		"Module.FinalProjectConsole.cpp.obj": [
+			"EnemyController.gen.cpp.obj",
 			"EnvQueryContext_Target.gen.cpp.obj",
 			"FinalProjectConsole.init.gen.cpp.obj",
 			"FinalProjectConsoleCameraManager.gen.cpp.obj",
@@ -50,7 +51,8 @@
 			"ShooterPickup.cpp.obj",
 			"ShooterProjectile.cpp.obj",
 			"ShooterWeapon.cpp.obj",
-			"ShooterWeaponHolder.cpp.obj"
+			"ShooterWeaponHolder.cpp.obj",
+			"EnemyController.cpp.obj"
 		]
 	}
 }
