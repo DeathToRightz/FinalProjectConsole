@@ -84,6 +84,24 @@
     <ClInclude Include="..\..\Source\FinalProjectConsole\Trap.h">
       <Filter>Source\FinalProjectConsole</Filter>
     </ClInclude>
+    <Filter Include="Source\FinalProjectConsole\Private">
+      <UniqueIdentifier>{198EA5A0-CEB0-3451-A3A2-8DC2E37B610F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\FinalProjectConsole\Private\EnemyControllerCopy.cpp">
+      <Filter>Source\FinalProjectConsole\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FinalProjectConsole\Private\MyAIController.cpp">
+      <Filter>Source\FinalProjectConsole\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\FinalProjectConsole\Public">
+      <UniqueIdentifier>{6D77B683-8633-3DC4-8F37-EDAC40871FE7}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\FinalProjectConsole\Public\EnemyControllerCopy.h">
+      <Filter>Source\FinalProjectConsole\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\FinalProjectConsole\Public\MyAIController.h">
+      <Filter>Source\FinalProjectConsole\Public</Filter>
+    </ClInclude>
     <Filter Include="Source\FinalProjectConsole\Variant_Horror">
       <UniqueIdentifier>{B8F839CB-9875-3CC8-A374-5483B90C8015}</UniqueIdentifier>
     </Filter>

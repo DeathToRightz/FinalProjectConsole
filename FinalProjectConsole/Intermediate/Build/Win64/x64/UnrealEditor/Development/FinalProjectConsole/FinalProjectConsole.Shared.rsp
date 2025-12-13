@@ -1,4 +1,5 @@
 /I "."
+/I "D:/FinalProjectConsole/FinalProjectConsole/Source/FinalProjectConsole/Private"
 /I "../Intermediate/Build/Win64/UnrealEditor/Inc/Engine/UHT"
 /I "Runtime/Engine/Classes"
 /I "Runtime/Engine/Public"
@@ -294,6 +295,7 @@
 /I "D:/FinalProjectConsole/FinalProjectConsole/Source/FinalProjectConsole/Variant_Shooter/UI"
 /I "D:/FinalProjectConsole/FinalProjectConsole/Source/FinalProjectConsole/Variant_Shooter/Weapons"
 /I "D:/FinalProjectConsole/FinalProjectConsole/Source"
+/I "D:/FinalProjectConsole/FinalProjectConsole/Source/FinalProjectConsole/Public"
 /I "../Plugins/EnhancedInput/Intermediate/Build/Win64/UnrealEditor/Inc/EnhancedInput/UHT"
 /I "../Plugins/EnhancedInput/Source"
 /I "../Plugins/EnhancedInput/Source/EnhancedInput/Public"
