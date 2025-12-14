@@ -17,6 +17,9 @@ class FINALPROJECTCONSOLE_API AEnemyController : public AAIController
 public:
     AEnemyController();
 
+    UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = "Patrol Locations")
+    class AActor* Location01;
+
 protected:
     virtual void BeginPlay() override;
     virtual void Tick(float DeltaTime) override;

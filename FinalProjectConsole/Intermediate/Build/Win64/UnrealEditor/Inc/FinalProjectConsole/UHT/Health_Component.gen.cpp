@@ -232,14 +232,14 @@ UHealth_Component::~UHealth_Component() {}
 // ********** End Class UHealth_Component **********************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Users_logan_OneDrive_Documents_GitHub_FinalProjectConsole_FinalProjectConsole_Source_FinalProjectConsole_Health_Component_h__Script_FinalProjectConsole_Statics
+struct Z_CompiledInDeferFile_FID_FinalProjectConsole_Source_FinalProjectConsole_Health_Component_h__Script_FinalProjectConsole_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_UHealth_Component, UHealth_Component::StaticClass, TEXT("UHealth_Component"), &Z_Registration_Info_UClass_UHealth_Component, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UHealth_Component), 3184635439U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_logan_OneDrive_Documents_GitHub_FinalProjectConsole_FinalProjectConsole_Source_FinalProjectConsole_Health_Component_h__Script_FinalProjectConsole_3329827233(TEXT("/Script/FinalProjectConsole"),
-	Z_CompiledInDeferFile_FID_Users_logan_OneDrive_Documents_GitHub_FinalProjectConsole_FinalProjectConsole_Source_FinalProjectConsole_Health_Component_h__Script_FinalProjectConsole_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_logan_OneDrive_Documents_GitHub_FinalProjectConsole_FinalProjectConsole_Source_FinalProjectConsole_Health_Component_h__Script_FinalProjectConsole_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_FinalProjectConsole_Source_FinalProjectConsole_Health_Component_h__Script_FinalProjectConsole_3329827233(TEXT("/Script/FinalProjectConsole"),
+	Z_CompiledInDeferFile_FID_FinalProjectConsole_Source_FinalProjectConsole_Health_Component_h__Script_FinalProjectConsole_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_FinalProjectConsole_Source_FinalProjectConsole_Health_Component_h__Script_FinalProjectConsole_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************

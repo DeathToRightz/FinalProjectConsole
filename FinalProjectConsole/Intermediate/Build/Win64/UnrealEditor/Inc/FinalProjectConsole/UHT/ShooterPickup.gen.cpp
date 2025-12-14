@@ -435,7 +435,7 @@ AShooterPickup::~AShooterPickup() {}
 // ********** End Class AShooterPickup *************************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Users_logan_OneDrive_Documents_GitHub_FinalProjectConsole_FinalProjectConsole_Source_FinalProjectConsole_Variant_Shooter_Weapons_ShooterPickup_h__Script_FinalProjectConsole_Statics
+struct Z_CompiledInDeferFile_FID_FinalProjectConsole_Source_FinalProjectConsole_Variant_Shooter_Weapons_ShooterPickup_h__Script_FinalProjectConsole_Statics
 {
 	static constexpr FStructRegisterCompiledInInfo ScriptStructInfo[] = {
 		{ FWeaponTableRow::StaticStruct, Z_Construct_UScriptStruct_FWeaponTableRow_Statics::NewStructOps, TEXT("WeaponTableRow"), &Z_Registration_Info_UScriptStruct_FWeaponTableRow, CONSTRUCT_RELOAD_VERSION_INFO(FStructReloadVersionInfo, sizeof(FWeaponTableRow), 4111748400U) },
@@ -444,9 +444,9 @@ struct Z_CompiledInDeferFile_FID_Users_logan_OneDrive_Documents_GitHub_FinalProj
 		{ Z_Construct_UClass_AShooterPickup, AShooterPickup::StaticClass, TEXT("AShooterPickup"), &Z_Registration_Info_UClass_AShooterPickup, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AShooterPickup), 854219461U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_logan_OneDrive_Documents_GitHub_FinalProjectConsole_FinalProjectConsole_Source_FinalProjectConsole_Variant_Shooter_Weapons_ShooterPickup_h__Script_FinalProjectConsole_372579696(TEXT("/Script/FinalProjectConsole"),
-	Z_CompiledInDeferFile_FID_Users_logan_OneDrive_Documents_GitHub_FinalProjectConsole_FinalProjectConsole_Source_FinalProjectConsole_Variant_Shooter_Weapons_ShooterPickup_h__Script_FinalProjectConsole_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_logan_OneDrive_Documents_GitHub_FinalProjectConsole_FinalProjectConsole_Source_FinalProjectConsole_Variant_Shooter_Weapons_ShooterPickup_h__Script_FinalProjectConsole_Statics::ClassInfo),
-	Z_CompiledInDeferFile_FID_Users_logan_OneDrive_Documents_GitHub_FinalProjectConsole_FinalProjectConsole_Source_FinalProjectConsole_Variant_Shooter_Weapons_ShooterPickup_h__Script_FinalProjectConsole_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_logan_OneDrive_Documents_GitHub_FinalProjectConsole_FinalProjectConsole_Source_FinalProjectConsole_Variant_Shooter_Weapons_ShooterPickup_h__Script_FinalProjectConsole_Statics::ScriptStructInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_FinalProjectConsole_Source_FinalProjectConsole_Variant_Shooter_Weapons_ShooterPickup_h__Script_FinalProjectConsole_372579696(TEXT("/Script/FinalProjectConsole"),
+	Z_CompiledInDeferFile_FID_FinalProjectConsole_Source_FinalProjectConsole_Variant_Shooter_Weapons_ShooterPickup_h__Script_FinalProjectConsole_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_FinalProjectConsole_Source_FinalProjectConsole_Variant_Shooter_Weapons_ShooterPickup_h__Script_FinalProjectConsole_Statics::ClassInfo),
+	Z_CompiledInDeferFile_FID_FinalProjectConsole_Source_FinalProjectConsole_Variant_Shooter_Weapons_ShooterPickup_h__Script_FinalProjectConsole_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_FinalProjectConsole_Source_FinalProjectConsole_Variant_Shooter_Weapons_ShooterPickup_h__Script_FinalProjectConsole_Statics::ScriptStructInfo),
 	nullptr, 0);
 // ********** End Registration *********************************************************************
 
