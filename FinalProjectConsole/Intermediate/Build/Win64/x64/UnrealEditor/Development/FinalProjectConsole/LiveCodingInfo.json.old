@@ -3,7 +3,9 @@
 	{
 		"Module.FinalProjectConsole.cpp.obj": [
 			"EnemyController.gen.cpp.obj",
+			"EnemyControllerCopy.gen.cpp.obj",
 			"EnvQueryContext_Target.gen.cpp.obj",
+			"FinalProjectConsole.init.gen.cpp.obj",
 			"FinalProjectConsoleCameraManager.gen.cpp.obj",
 			"FinalProjectConsoleCharacter.gen.cpp.obj",
 			"FinalProjectConsoleGameMode.gen.cpp.obj",
@@ -35,6 +37,8 @@
 			"FinalProjectConsoleGameMode.cpp.obj",
 			"FinalProjectConsolePlayerController.cpp.obj",
 			"Health_Component.cpp.obj",
+			"EnemyControllerCopy.cpp.obj",
+			"MyAIController.cpp.obj",
 			"Trap.cpp.obj",
 			"HorrorCharacter.cpp.obj",
 			"HorrorGameMode.cpp.obj",
@@ -52,11 +56,7 @@
 			"ShooterPickup.cpp.obj",
 			"ShooterProjectile.cpp.obj",
 			"ShooterWeapon.cpp.obj",
-			"ShooterWeaponHolder.cpp.obj",
-			"EnemyControllerCopy.gen.cpp.obj",
-			"FinalProjectConsole.init.gen.cpp.obj",
-			"EnemyControllerCopy.cpp.obj",
-			"MyAIController.cpp.obj"
+			"ShooterWeaponHolder.cpp.obj"
 		]
 	}
 }
