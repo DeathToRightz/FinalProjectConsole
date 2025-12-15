@@ -19,7 +19,7 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Health Variables")
 	float  MaxHealth = 100;
 
-	UFUNCTION()
+	UFUNCTION(BlueprintCallable, Category = "Stats")
 	void TakeDamage(AActor* DamagedActor, float Damage, const UDamageType* DamageType, AController* InstigateBy, AActor* DamageCauser);
 
 	UPROPERTY()

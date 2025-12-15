@@ -2431,3 +2431,584 @@ BUILD FAILED
 [2025.12.15-16.02.39:302][581]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6516.389648, Update Interval: 353.473938
 [2025.12.15-16.02.55:855][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
 [2025.12.15-16.02.58:120][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.12.15-16.09.27:126][828]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6924.534668
+[2025.12.15-16.09.28:125][831]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.15-16.09.28:125][831]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6925.200684, Update Interval: 341.469177
+[2025.12.15-16.11.26:200][612]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to '"/Script/CoreUObject.Class'/Script/ShootTargets_Mishina.Health'",MemberName="TakeDamage")'
+[2025.12.15-16.12.40:722][681]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.12.15-16.12.40:724][681]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level_Three' took 0.029
+[2025.12.15-16.12.40:724][681]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_PlayerCopy] ([2] browsable assets)...
+[2025.12.15-16.12.40:727][681]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.12.15-16.12.40:782][681]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_PlayerCopy.BP_PlayerCopy_C]
+[2025.12.15-16.12.40:782][681]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (1118 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50), Global Resolution Lod Bias (0.29)
+[2025.12.15-16.12.40:800][681]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_PlayerCopy.BP_PlayerCopy]
+[2025.12.15-16.12.40:800][681]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_PlayerCopy]
+[2025.12.15-16.12.50:516][681]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_PlayerCopy_Auto4
+[2025.12.15-16.12.50:516][681]LogSavePackage: Moving 'D:/FinalProjectConsole/FinalProjectConsole/Saved/BP_PlayerCopy_Auto4069345A64D1B38465748F096FB948C7B.tmp' to 'D:/FinalProjectConsole/FinalProjectConsole/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_PlayerCopy_Auto4.uasset'
+[2025.12.15-16.12.50:517][681]LogFileHelpers: Auto-saving content packages took 9.793
+[2025.12.15-16.12.50:538][681]LogAutomationController: Ignoring very large delta of 9.90 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.12.15-16.12.50:550][683]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (1118 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50), Global Resolution Lod Bias (0.29)
+[2025.12.15-16.15.59:534][722]LogDerivedDataCache: C:/Users/irina/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.15-16.16.08:174][747]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7325.553223
+[2025.12.15-16.16.09:175][750]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.15-16.16.09:175][750]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7326.219727, Update Interval: 326.942963
+[2025.12.15-16.19.10:201][293]LogBlueprint: Warning: [AssetLog] D:\FinalProjectConsole\FinalProjectConsole\Content\FirstPerson\Blueprints\BP_PlayerCopy.uasset: [Compiler] Could not find a variable named "Delayed" in '/Game/FirstPerson/Blueprints/BP_PlayerCopy.BP_PlayerCopy_C'.
+Make sure '/Game/FirstPerson/Blueprints/BP_PlayerCopy.BP_PlayerCopy_C' has been compiled for  Get Delayed
+[2025.12.15-16.19.10:203][293]LogBlueprint: Error: [AssetLog] D:\FinalProjectConsole\FinalProjectConsole\Content\FirstPerson\Blueprints\BP_PlayerCopy.uasset: [Compiler] The property associated with  Delayed  could not be found in '/Game/FirstPerson/Blueprints/BP_PlayerCopy.BP_PlayerCopy_C'
+[2025.12.15-16.19.10:270][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.12.15-16.19.13:075][592]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.12.15-16.19.13:864][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.12.15-16.19.16:033][673]LogSlate: Window 'Save Content' being destroyed
+[2025.12.15-16.19.16:056][673]LogAutomationController: Ignoring very large delta of 2.21 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.12.15-16.22.30:815][815]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7708.160156
+[2025.12.15-16.22.30:865][821]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.15-16.22.30:865][821]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7708.201172, Update Interval: 328.440796
+[2025.12.15-16.28.46:840][983]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8084.167969
+[2025.12.15-16.28.47:840][986]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.15-16.28.47:840][986]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8084.834473, Update Interval: 306.841034
+[2025.12.15-16.34.50:898][ 75]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8448.219727
+[2025.12.15-16.34.51:899][ 78]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.15-16.34.51:899][ 78]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8448.886719, Update Interval: 350.978119
+[2025.12.15-16.41.25:619][259]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8842.939453
+[2025.12.15-16.41.26:619][262]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.15-16.41.26:619][262]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8843.606445, Update Interval: 323.672607
+[2025.12.15-16.42.15:224][408]LogLiveCoding: Display: UbaCli v5.7.0-Uba_v1.0.0-43528563 (Rootdir: "C:\ProgramData\Epic\UbaCli", StoreCapacity: 0Gb)
+
+---- Starting trace: Debug_vs4270060792a8f-5f49-487e-8e10-59ed2b28b044 ----
+Running C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\bin\Hostx64\x64\link.exe @C:\Users\irina\AppData\Local\Temp\4E9F.tmp
+   Creating library D:\FinalProjectConsole\FinalProjectConsole\Binaries\Win64\UnrealEditor-FinalProjectConsole.patch_0.lib and object D:\FinalProjectConsole\FinalProjectConsole\Binaries\Win64\UnrealEditor-FinalProjectConsole.patch_0.exp
+Detoured run took 1.1s
+[2025.12.15-16.42.15:455][408]LogClass: UPackage /Script/FinalProjectConsole Reload.
+[2025.12.15-16.42.15:455][408]LogClass: UClass Health_Component Reload.
+[2025.12.15-16.42.15:467][408]LogClass: Could not find existing class Health_Component in package /Script/FinalProjectConsole for reload, assuming new or modified class
+[2025.12.15-16.42.15:467][408]LogClass: Function TakeDamage is new or belongs to a modified class.
+[2025.12.15-16.42.15:467][408]LogClass: Function TakeDamageDelay is new or belongs to a modified class.
+[2025.12.15-16.42.15:522][408]Re-instancing Health_Component after reload.
+[2025.12.15-16.42.15:785][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.12.15-16.42.16:463][409]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed, 24 classes unchanged, 13 scriptstructs unchanged, 23 functions remapped, 13 scriptstructs remapped
+[2025.12.15-16.42.16:463][409]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2025.12.15-16.42.16:851][411]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 3/2 Textures; frames since last flush: 484101
+[2025.12.15-16.42.16:851][411]LogSlate: Warning: Setting the threshold to trigger a flush to 3 non-atlased textures as there is a lot of font data being cached.
+[2025.12.15-16.42.16:858][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-16.46.43:756][611]LogAutomationController: Ignoring very large delta of 3.00 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.12.15-16.47.18:287][432]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2025.12.15-16.47.18:289][432]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level_Three' took 0.102
+[2025.12.15-16.47.18:289][432]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_PlayerCopy] ([2] browsable assets)...
+[2025.12.15-16.47.18:372][432]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_PlayerCopy.BP_PlayerCopy]
+[2025.12.15-16.47.18:372][432]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_PlayerCopy]
+[2025.12.15-16.47.18:396][432]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_PlayerCopy_Auto5
+[2025.12.15-16.47.18:397][432]LogSavePackage: Moving 'D:/FinalProjectConsole/FinalProjectConsole/Saved/BP_PlayerCopy_Auto5FAB216EF463A69F9FC3994AECB773446.tmp' to 'D:/FinalProjectConsole/FinalProjectConsole/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_PlayerCopy_Auto5.uasset'
+[2025.12.15-16.47.18:397][432]LogFileHelpers: Auto-saving content packages took 0.108
+[2025.12.15-16.47.25:052][225]LogBlueprint: Error: [AssetLog] D:\FinalProjectConsole\FinalProjectConsole\Content\FirstPerson\Blueprints\BP_PlayerCopy.uasset: [Compiler] This blueprint (self) is not a Health_Component, therefore ' Target ' must have a connection.
+[2025.12.15-16.47.25:151][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.12.15-16.47.38:314][754]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9215.765625
+[2025.12.15-16.47.38:378][762]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.15-16.47.38:378][762]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9215.821289, Update Interval: 355.308685
+[2025.12.15-16.47.42:983][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.12.15-16.47.44:001][384]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-16.47.44:044][384]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_PlayerCopy] ([2] browsable assets)...
+[2025.12.15-16.47.44:044][384]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (78 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (4096), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (-1.50), Global Resolution Lod Bias (0.42)
+[2025.12.15-16.47.44:332][384]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_PlayerCopy.BP_PlayerCopy]
+[2025.12.15-16.47.44:332][384]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_PlayerCopy]
+[2025.12.15-16.47.44:332][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_PlayerCopy" FILE="D:/FinalProjectConsole/FinalProjectConsole/Content/FirstPerson/Blueprints/BP_PlayerCopy.uasset" SILENT=true
+[2025.12.15-16.47.44:354][384]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_PlayerCopy
+[2025.12.15-16.47.44:354][384]LogSavePackage: Moving 'D:/FinalProjectConsole/FinalProjectConsole/Saved/BP_PlayerCopy53C3B18C48DD9F577D7ABE88C79473DD.tmp' to 'D:/FinalProjectConsole/FinalProjectConsole/Content/FirstPerson/Blueprints/BP_PlayerCopy.uasset'
+[2025.12.15-16.47.44:363][384]LogFileHelpers: InternalPromptForCheckoutAndSave took 362.779 ms (total: 3.33 sec)
+[2025.12.15-16.47.44:401][384]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.15-16.47.44:401][384]LogContentValidation: Enabled validators:
+[2025.12.15-16.47.44:402][384]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-16.47.44:402][384]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-16.47.44:402][384]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-16.47.44:402][384]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-16.47.44:402][384]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-16.47.44:402][384]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-16.47.44:402][384]AssetCheck: /Game/FirstPerson/Blueprints/BP_PlayerCopy Validating asset
+[2025.12.15-16.47.52:277][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.12.15-16.47.52:283][155]LogStreaming: Display: FlushAsyncLoading(734): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.15-16.47.52:303][155]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_One
+[2025.12.15-16.47.52:308][155]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.47.52:308][155]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_One.Level_One:PersistentLevel.BP_Enemy_C_1.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.47.52:315][155]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.47.52:315][155]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_One.Level_One:PersistentLevel.BP_Enemy_C_3.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.47.52:315][155]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.47.52:315][155]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_One.Level_One:PersistentLevel.BP_Enemy_C_4.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.47.52:323][155]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level_One.Level_One
+[2025.12.15-16.47.52:324][155]Cmd: MAP LOAD FILE="D:/FinalProjectConsole/FinalProjectConsole/Content/Levels/Level_One.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.12.15-16.47.52:392][155]LogWorld: UWorld::CleanupWorld for Level_Three, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-16.47.52:393][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-16.47.52:421][155]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.15-16.47.52:432][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.12.15-16.47.52:436][155]LogWorld: UWorld::CleanupWorld for Level_One, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-16.47.52:437][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-16.47.52:463][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.12.15-16.47.52:529][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.12.15-16.47.52:545][155]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_One'.
+[2025.12.15-16.47.52:545][155]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_One
+[2025.12.15-16.47.52:552][155]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.47.52:553][155]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_One.Level_One:PersistentLevel.BP_Enemy_C_1.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.47.52:553][155]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.47.52:553][155]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_One.Level_One:PersistentLevel.BP_Enemy_C_3.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.47.52:553][155]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.47.52:553][155]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_One.Level_One:PersistentLevel.BP_Enemy_C_4.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.47.52:842][155]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.12.15-16.47.52:879][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.12.15-16.47.52:897][155]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.12.15-16.47.52:897][155]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.084ms to complete.
+[2025.12.15-16.47.53:018][156]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 768
+[2025.12.15-16.47.53:104][157]LogRenderer: Warning: [VSM] One Pass Projection max lights overflow. If you see shadow artifacts, decrease the amount of local lights per pixel, or increase r.Shadow.Virtual.OnePassProjection.MaxLightsPerPixel.
+[2025.12.15-16.47.53:963][252]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.15-16.47.53:978][252]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.15-16.47.54:012][252]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_One
+[2025.12.15-16.47.54:030][252]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018058s)
+[2025.12.15-16.47.54:030][252]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_One.Level_One to /Game/Levels/UEDPIE_0_Level_One.Level_One (0.018206s)
+[2025.12.15-16.47.54:052][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.12.15-16.47.54:057][252]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_One
+[2025.12.15-16.47.54:058][252]LogPlayLevel: PIE: World Init took: (0.001892s)
+[2025.12.15-16.47.54:060][252]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.12.15-16.47.54:060][252]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.15-16.47.54:060][252]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.15-16.47.54:060][252]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.15-16.47.54:060][252]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.15-16.47.54:060][252]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.15-16.47.54:060][252]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.15-16.47.54:060][252]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.15-16.47.54:060][252]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.15-16.47.54:061][252]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.15-16.47.54:061][252]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.15-16.47.54:061][252]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.15-16.47.54:063][252]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.15-16.47.54:085][252]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.12.15-16.47.54:085][252]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.15-16.47.54:086][252]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.15-16.47.54:086][252]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.15-16.47.54:086][252]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.12.15-16.47.54:086][252]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.12.15-16.47.54:088][252]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.12.15-16.47.54:088][252]LogInit: FAudioDevice initialized with ID 8.
+[2025.12.15-16.47.54:088][252]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.12.15-16.47.54:088][252]LogAudio: Display: Audio Device (ID: 8) registered with world 'Level_One'.
+[2025.12.15-16.47.54:088][252]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.12.15-16.47.54:103][252]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.12.15-16.47.54:108][252]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.47.54:108][252]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/UEDPIE_0_Level_One.Level_One:PersistentLevel.BP_Enemy_C_1.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.47.54:108][252]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.47.54:108][252]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/UEDPIE_0_Level_One.Level_One:PersistentLevel.BP_Enemy_C_3.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.47.54:109][252]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.47.54:109][252]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/UEDPIE_0_Level_One.Level_One:PersistentLevel.BP_Enemy_C_4.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.47.54:115][252]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2025.12.15-11.47.54
+[2025.12.15-16.47.54:120][252]LogWorld: Bringing up level for play took: 0.016083
+[2025.12.15-16.47.54:124][252]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2025.12.15-16.47.54:138][252]LogTemp: Warning: Current Health, 100.000000
+[2025.12.15-16.47.54:145][252]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.12.15-16.47.54:146][252]PIE: Server logged in
+[2025.12.15-16.47.54:148][252]PIE: Play in editor total start time 0.179 seconds.
+[2025.12.15-16.47.54:213][253]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 768
+[2025.12.15-16.47.54:238][253]LogRenderer: Warning: [VSM] One Pass Projection max lights overflow. If you see shadow artifacts, decrease the amount of local lights per pixel, or increase r.Shadow.Virtual.OnePassProjection.MaxLightsPerPixel.
+[2025.12.15-16.47.54:676][283]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2025.12.15-16.47.56:315][399]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKallari/Characters/Heroes/Kallari/Animations/LevelStart_Montage.LevelStart_Montage'
+[2025.12.15-16.47.56:315][399]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKallari/Characters/Heroes/Kallari/Animations/LevelStart_Montage.LevelStart_Montage'
+[2025.12.15-16.47.56:315][399]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKallari/Characters/Heroes/Kallari/Animations/LevelStart_Montage.LevelStart_Montage'
+[2025.12.15-16.47.59:082][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.15-16.47.59:082][601]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_One
+[2025.12.15-16.47.59:082][601]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.15-16.47.59:083][601]LogWorld: UWorld::CleanupWorld for Level_One, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-16.47.59:086][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-16.47.59:088][601]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.15-16.47.59:092][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-16.47.59:115][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.15-16.47.59:116][601]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.12.15-16.47.59:117][601]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2025.12.15-16.47.59:119][601]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2025.12.15-16.47.59:129][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.12.15-16.47.59:166][602]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2025.12.15-16.48.04:668][180]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP_Enemy.BP_Enemy
+[2025.12.15-16.48.04:669][180]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.12.15-16.48.04:963][180]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.04:963][180]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Engine/Transient.World_13:PersistentLevel.BP_Enemy_C_0.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.08:897][619]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.08:897][619]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Engine/Transient.World_13:PersistentLevel.BP_Enemy_C_0.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.34:658][577]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.34:658][577]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Engine/Transient.World_3:PersistentLevel.BP_Enemy_C_0.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.34:659][577]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.34:659][577]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_One.Level_One:PersistentLevel.BP_Enemy_C_1.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.34:660][577]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.34:660][577]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_One.Level_One:PersistentLevel.BP_Enemy_C_3.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.34:661][577]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.34:661][577]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_One.Level_One:PersistentLevel.BP_Enemy_C_4.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.34:662][577]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.34:662][577]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Engine/Transient.World_13:PersistentLevel.BP_Enemy_C_0.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.34:669][577]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.34:669][577]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Engine/Transient.World_3:PersistentLevel.BP_Enemy_C_0.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.34:670][577]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.34:670][577]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_One.Level_One:PersistentLevel.BP_Enemy_C_1.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.34:670][577]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.34:670][577]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_One.Level_One:PersistentLevel.BP_Enemy_C_3.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.34:671][577]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.34:671][577]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_One.Level_One:PersistentLevel.BP_Enemy_C_4.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.34:671][577]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.34:672][577]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Engine/Transient.World_13:PersistentLevel.BP_Enemy_C_0.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.34:705][578]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.34:705][578]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Engine/Transient.World_13:PersistentLevel.BP_Enemy_C_0.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.36:780][826]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.36:780][826]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Engine/Transient.World_3:PersistentLevel.BP_Enemy_C_0.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.36:781][826]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.36:781][826]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_One.Level_One:PersistentLevel.BP_Enemy_C_1.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.36:782][826]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.36:782][826]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_One.Level_One:PersistentLevel.BP_Enemy_C_3.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.36:783][826]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.36:783][826]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_One.Level_One:PersistentLevel.BP_Enemy_C_4.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.36:784][826]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.36:784][826]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Engine/Transient.World_13:PersistentLevel.BP_Enemy_C_0.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.36:785][826]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.36:785][826]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Engine/Transient.World_3:PersistentLevel.BP_Enemy_C_0.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.36:785][826]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.36:785][826]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_One.Level_One:PersistentLevel.BP_Enemy_C_1.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.36:786][826]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.36:786][826]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_One.Level_One:PersistentLevel.BP_Enemy_C_3.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.36:786][826]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.36:786][826]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_One.Level_One:PersistentLevel.BP_Enemy_C_4.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.36:787][826]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.36:787][826]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Engine/Transient.World_13:PersistentLevel.BP_Enemy_C_0.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.36:798][826]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.36:798][826]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Engine/Transient.World_13:PersistentLevel.BP_Enemy_C_0.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.38:794][ 66]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.38:794][ 66]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Engine/Transient.World_3:PersistentLevel.BP_Enemy_C_0.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.38:795][ 66]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.38:795][ 66]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_One.Level_One:PersistentLevel.BP_Enemy_C_1.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.38:796][ 66]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.38:796][ 66]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_One.Level_One:PersistentLevel.BP_Enemy_C_3.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.38:797][ 66]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.38:798][ 66]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_One.Level_One:PersistentLevel.BP_Enemy_C_4.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.38:799][ 66]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.38:799][ 66]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Engine/Transient.World_13:PersistentLevel.BP_Enemy_C_0.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.38:800][ 66]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.38:800][ 66]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Engine/Transient.World_3:PersistentLevel.BP_Enemy_C_0.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.38:800][ 66]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.38:800][ 66]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_One.Level_One:PersistentLevel.BP_Enemy_C_1.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.38:801][ 66]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.38:801][ 66]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_One.Level_One:PersistentLevel.BP_Enemy_C_3.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.38:801][ 66]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.38:801][ 66]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_One.Level_One:PersistentLevel.BP_Enemy_C_4.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.38:802][ 66]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.38:802][ 66]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Engine/Transient.World_13:PersistentLevel.BP_Enemy_C_0.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.38:813][ 66]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.38:813][ 66]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Engine/Transient.World_13:PersistentLevel.BP_Enemy_C_0.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.42:289][477]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.42:290][477]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Engine/Transient.World_3:PersistentLevel.BP_Enemy_C_0.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.42:291][477]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.42:291][477]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_One.Level_One:PersistentLevel.BP_Enemy_C_1.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.42:292][477]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.42:292][477]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_One.Level_One:PersistentLevel.BP_Enemy_C_3.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.42:293][477]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.42:293][477]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_One.Level_One:PersistentLevel.BP_Enemy_C_4.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.42:294][477]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.42:294][477]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Engine/Transient.World_13:PersistentLevel.BP_Enemy_C_0.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.42:319][478]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.42:319][478]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Engine/Transient.World_13:PersistentLevel.BP_Enemy_C_0.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.44:221][706]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.44:221][706]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Engine/Transient.World_3:PersistentLevel.BP_Enemy_C_0.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.44:222][706]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.44:222][706]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_One.Level_One:PersistentLevel.BP_Enemy_C_1.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.44:223][706]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.44:223][706]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_One.Level_One:PersistentLevel.BP_Enemy_C_3.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.44:225][706]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.44:225][706]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_One.Level_One:PersistentLevel.BP_Enemy_C_4.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.44:226][706]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.44:226][706]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Engine/Transient.World_13:PersistentLevel.BP_Enemy_C_0.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.44:241][706]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.44:241][706]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Engine/Transient.World_13:PersistentLevel.BP_Enemy_C_0.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.45:920][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.12.15-16.48.45:925][898]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.45:925][898]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Engine/Transient.World_3:PersistentLevel.BP_Enemy_C_0.CharacterMesh0.Kallari_AnimBlueprint_C_1
+[2025.12.15-16.48.45:926][898]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.45:926][898]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_One.Level_One:PersistentLevel.BP_Enemy_C_1.CharacterMesh0.Kallari_AnimBlueprint_C_1
+[2025.12.15-16.48.45:926][898]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.45:926][898]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_One.Level_One:PersistentLevel.BP_Enemy_C_3.CharacterMesh0.Kallari_AnimBlueprint_C_1
+[2025.12.15-16.48.45:927][898]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.45:927][898]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_One.Level_One:PersistentLevel.BP_Enemy_C_4.CharacterMesh0.Kallari_AnimBlueprint_C_1
+[2025.12.15-16.48.45:927][898]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.45:927][898]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Engine/Transient.World_13:PersistentLevel.BP_Enemy_C_0.CharacterMesh0.Kallari_AnimBlueprint_C_1
+[2025.12.15-16.48.45:928][898]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.45:928][898]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Engine/Transient.World_3:PersistentLevel.BP_Enemy_C_1.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.45:932][898]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.45:932][898]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_One.Level_One:PersistentLevel.BP_Enemy_C_1.CharacterMesh0.Kallari_AnimBlueprint_C_1
+[2025.12.15-16.48.45:933][898]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.45:933][898]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_One.Level_One:PersistentLevel.BP_Enemy_C_3.CharacterMesh0.Kallari_AnimBlueprint_C_1
+[2025.12.15-16.48.45:933][898]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.45:933][898]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_One.Level_One:PersistentLevel.BP_Enemy_C_4.CharacterMesh0.Kallari_AnimBlueprint_C_1
+[2025.12.15-16.48.45:934][898]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.45:934][898]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Engine/Transient.World_13:PersistentLevel.BP_Enemy_C_0.CharacterMesh0.Kallari_AnimBlueprint_C_1
+[2025.12.15-16.48.45:934][898]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.45:934][898]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Engine/Transient.World_3:PersistentLevel.BP_Enemy_C_1.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.45:971][898]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.45:971][898]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Engine/Transient.World_13:PersistentLevel.BP_Enemy_C_0.CharacterMesh0.Kallari_AnimBlueprint_C_1
+[2025.12.15-16.48.46:177][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.12.15-16.48.46:181][914]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.46:181][914]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_One.Level_One:PersistentLevel.BP_Enemy_C_1.CharacterMesh0.Kallari_AnimBlueprint_C_1
+[2025.12.15-16.48.46:182][914]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.46:182][914]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_One.Level_One:PersistentLevel.BP_Enemy_C_3.CharacterMesh0.Kallari_AnimBlueprint_C_1
+[2025.12.15-16.48.46:183][914]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.46:183][914]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_One.Level_One:PersistentLevel.BP_Enemy_C_4.CharacterMesh0.Kallari_AnimBlueprint_C_1
+[2025.12.15-16.48.46:183][914]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.46:183][914]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Engine/Transient.World_13:PersistentLevel.BP_Enemy_C_0.CharacterMesh0.Kallari_AnimBlueprint_C_1
+[2025.12.15-16.48.46:183][914]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.46:183][914]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Engine/Transient.World_3:PersistentLevel.BP_Enemy_C_1.CharacterMesh0.Kallari_AnimBlueprint_C_1
+[2025.12.15-16.48.46:184][914]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.46:184][914]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Engine/Transient.World_3:PersistentLevel.BP_Enemy_C_2.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.46:186][914]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.46:186][914]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_One.Level_One:PersistentLevel.BP_Enemy_C_1.CharacterMesh0.Kallari_AnimBlueprint_C_1
+[2025.12.15-16.48.46:187][914]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.46:187][914]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_One.Level_One:PersistentLevel.BP_Enemy_C_3.CharacterMesh0.Kallari_AnimBlueprint_C_1
+[2025.12.15-16.48.46:187][914]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.46:187][914]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_One.Level_One:PersistentLevel.BP_Enemy_C_4.CharacterMesh0.Kallari_AnimBlueprint_C_1
+[2025.12.15-16.48.46:188][914]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.46:188][914]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Engine/Transient.World_13:PersistentLevel.BP_Enemy_C_0.CharacterMesh0.Kallari_AnimBlueprint_C_1
+[2025.12.15-16.48.46:188][914]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.46:188][914]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Engine/Transient.World_3:PersistentLevel.BP_Enemy_C_2.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.46:223][914]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.46:223][914]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Engine/Transient.World_13:PersistentLevel.BP_Enemy_C_0.CharacterMesh0.Kallari_AnimBlueprint_C_1
+[2025.12.15-16.48.47:293][ 28]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-16.48.47:336][ 28]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP/BP_Enemy] ([2] browsable assets)...
+[2025.12.15-16.48.47:342][ 28]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP/BP_Enemy.BP_Enemy]
+[2025.12.15-16.48.47:342][ 28]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_Enemy]
+[2025.12.15-16.48.47:342][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Enemy" FILE="D:/FinalProjectConsole/FinalProjectConsole/Content/BP/BP_Enemy.uasset" SILENT=true
+[2025.12.15-16.48.47:353][ 28]LogSavePackage: Moving output files for package: /Game/BP/BP_Enemy
+[2025.12.15-16.48.47:353][ 28]LogSavePackage: Moving 'D:/FinalProjectConsole/FinalProjectConsole/Saved/BP_Enemy75BD4DD4438ADB67F67D9EA9F8298A78.tmp' to 'D:/FinalProjectConsole/FinalProjectConsole/Content/BP/BP_Enemy.uasset'
+[2025.12.15-16.48.47:371][ 28]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.763 ms (total: 3.41 sec)
+[2025.12.15-16.48.47:414][ 28]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.15-16.48.47:414][ 28]LogContentValidation: Enabled validators:
+[2025.12.15-16.48.47:414][ 28]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-16.48.47:414][ 28]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-16.48.47:414][ 28]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-16.48.47:414][ 28]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-16.48.47:414][ 28]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-16.48.47:414][ 28]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-16.48.47:414][ 28]AssetCheck: /Game/BP/BP_Enemy Validating asset
+[2025.12.15-16.48.48:908][192]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.15-16.48.48:912][192]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.15-16.48.48:940][192]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_One
+[2025.12.15-16.48.48:957][192]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017254s)
+[2025.12.15-16.48.48:957][192]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_One.Level_One to /Game/Levels/UEDPIE_0_Level_One.Level_One (0.017293s)
+[2025.12.15-16.48.48:980][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.12.15-16.48.48:983][192]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_One
+[2025.12.15-16.48.48:984][192]LogPlayLevel: PIE: World Init took: (0.001358s)
+[2025.12.15-16.48.48:985][192]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.12.15-16.48.48:985][192]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.15-16.48.48:985][192]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.15-16.48.48:985][192]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.15-16.48.48:985][192]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.15-16.48.48:985][192]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.15-16.48.48:985][192]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.15-16.48.48:985][192]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.15-16.48.48:985][192]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.15-16.48.48:985][192]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.15-16.48.48:985][192]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.15-16.48.48:985][192]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.15-16.48.48:987][192]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.15-16.48.49:007][192]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.12.15-16.48.49:007][192]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.15-16.48.49:007][192]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.15-16.48.49:007][192]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.15-16.48.49:007][192]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.12.15-16.48.49:007][192]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.12.15-16.48.49:009][192]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.12.15-16.48.49:009][192]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.12.15-16.48.49:009][192]LogInit: FAudioDevice initialized with ID 9.
+[2025.12.15-16.48.49:009][192]LogAudio: Display: Audio Device (ID: 9) registered with world 'Level_One'.
+[2025.12.15-16.48.49:009][192]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2025.12.15-16.48.49:012][192]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.12.15-16.48.49:017][192]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.49:017][192]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/UEDPIE_0_Level_One.Level_One:PersistentLevel.BP_Enemy_C_1.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.49:017][192]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.49:017][192]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/UEDPIE_0_Level_One.Level_One:PersistentLevel.BP_Enemy_C_3.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.49:018][192]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.48.49:018][192]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/UEDPIE_0_Level_One.Level_One:PersistentLevel.BP_Enemy_C_4.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.48.49:022][192]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2025.12.15-11.48.49
+[2025.12.15-16.48.49:023][192]LogWorld: Bringing up level for play took: 0.010489
+[2025.12.15-16.48.49:025][192]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2025.12.15-16.48.49:029][192]LogTemp: Warning: Current Health, 100.000000
+[2025.12.15-16.48.49:029][192]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.12.15-16.48.49:029][192]PIE: Server logged in
+[2025.12.15-16.48.49:032][192]PIE: Play in editor total start time 0.12 seconds.
+[2025.12.15-16.48.49:083][193]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 768
+[2025.12.15-16.48.49:111][193]LogRenderer: Warning: [VSM] One Pass Projection max lights overflow. If you see shadow artifacts, decrease the amount of local lights per pixel, or increase r.Shadow.Virtual.OnePassProjection.MaxLightsPerPixel.
+[2025.12.15-16.48.49:366][209]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2025.12.15-16.48.51:257][341]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKallari/Characters/Heroes/Kallari/Animations/LevelStart_Montage.LevelStart_Montage'
+[2025.12.15-16.48.51:257][341]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKallari/Characters/Heroes/Kallari/Animations/LevelStart_Montage.LevelStart_Montage'
+[2025.12.15-16.48.51:257][341]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonKallari/Characters/Heroes/Kallari/Animations/LevelStart_Montage.LevelStart_Montage'
+[2025.12.15-16.48.59:399][912]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/Menu_Levels/Level_Loss"
+[2025.12.15-16.48.59:400][912]LogNet: Browse: /Game/Levels/Menu_Levels/Level_Loss
+[2025.12.15-16.48.59:400][912]LogLoad: LoadMap: /Game/Levels/Menu_Levels/Level_Loss
+[2025.12.15-16.48.59:400][912]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_One
+[2025.12.15-16.48.59:400][912]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.15-16.48.59:402][912]LogWorld: UWorld::CleanupWorld for Level_One, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-16.48.59:403][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-16.48.59:467][912]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.15-16.48.59:471][912]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.12.15-16.48.59:474][912]LogStreaming: Display: FlushAsyncLoading(736): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.15-16.49.00:165][912]LogTexture: Display: Building textures: /Game/MenuScreens/LossText.LossText (BGRA8, 342x65 x1x1x1) (Required Memory Estimate: 1.763206 MB), EncodeSpeed: Fast
+[2025.12.15-16.49.00:166][912]LogTexture: Display: Building textures: /Game/ButtonVisuals/BackBtnHover.BackBtnHover (BGRA8, 200x50 x1x1x1) (Required Memory Estimate: 1.343315 MB), EncodeSpeed: Fast
+[2025.12.15-16.49.00:166][912]LogTexture: Display: Building textures: /Game/ButtonVisuals/BackBtn.BackBtn (BGRA8, 200x50 x1x1x1) (Required Memory Estimate: 1.343315 MB), EncodeSpeed: Fast
+[2025.12.15-16.49.00:167][912]LogTexture: Display: Building textures: /Game/MenuScreens/RulesText.RulesText (BGRA8, 342x65 x1x1x1) (Required Memory Estimate: 1.763206 MB), EncodeSpeed: Fast
+[2025.12.15-16.49.00:167][912]LogTexture: Display: Building textures: /Game/MenuScreens/WinnerText.WinnerText (BGRA8, 342x65 x1x1x1) (Required Memory Estimate: 1.763206 MB), EncodeSpeed: Fast
+[2025.12.15-16.49.00:171][912]LogTexture: Display: Building textures: /Game/MenuScreens/InstructionsText.InstructionsText (TFO_AutoDXT, 1920x1080 x1x1x1) (Required Memory Estimate: 236.898438 MB), EncodeSpeed: Fast
+[2025.12.15-16.49.00:173][912]LogTexture: Display: Building textures: /Game/MenuScreens/winScreen.winScreen (TFO_AutoDXT, 1920x1080 x1x1x1) (Required Memory Estimate: 243.443359 MB), EncodeSpeed: Fast
+[2025.12.15-16.49.00:173][912]LogTexture: Display: Building textures: /Game/MenuScreens/LossScreen.LossScreen (TFO_AutoDXT, 1920x1080 x1x1x1) (Required Memory Estimate: 243.443359 MB), EncodeSpeed: Fast
+[2025.12.15-16.49.00:173][912]LogAudio: Display: Audio Device (ID: 9) registered with world 'Level_Loss'.
+[2025.12.15-16.49.00:174][912]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_Loss
+[2025.12.15-16.49.00:174][912]LogTexture: Display: Building textures: /Game/MenuScreens/RulesScreen.RulesScreen (TFO_AutoDXT, 1920x1080 x1x1x1) (Required Memory Estimate: 243.443359 MB), EncodeSpeed: Fast
+[2025.12.15-16.49.00:176][912]LogPlayLevel: PIE: World Init took: (0.002209s)
+[2025.12.15-16.49.00:176][912]LogLoad: Game class is 'BP_Menus_C'
+[2025.12.15-16.49.00:178][912]LogWorld: Bringing World /Game/Levels/Menu_Levels/UEDPIE_0_Level_Loss.Level_Loss up for play (max tick rate 0) at 2025.12.15-11.49.00
+[2025.12.15-16.49.00:179][912]LogWorld: Bringing up level for play took: 0.000762
+[2025.12.15-16.49.00:179][912]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.12.15-16.49.00:181][912]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.12.15-16.49.00:181][912]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.12.15-16.49.00:182][912]LogBlueprintUserMessages: [PC_Menus_C_0] witch
+[2025.12.15-16.49.00:182][912]LogLoad: Took 0.782972 seconds to LoadMap(/Game/Levels/Menu_Levels/Level_Loss)
+[2025.12.15-16.49.00:182][912]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/Menu_Levels/Level_Loss
+[2025.12.15-16.49.00:186][912]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.15-16.49.04:182][389]Cmd: quit
+[2025.12.15-16.49.04:186][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.15-16.49.04:186][389]LogWorld: BeginTearingDown for /Game/Levels/Menu_Levels/UEDPIE_0_Level_Loss
+[2025.12.15-16.49.04:220][389]LogWorld: UWorld::CleanupWorld for Level_Loss, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-16.49.04:220][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-16.49.04:221][389]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.15-16.49.04:225][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-16.49.04:249][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.15-16.49.04:250][389]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2025.12.15-16.49.04:250][389]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=4
+[2025.12.15-16.49.04:251][389]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
+[2025.12.15-16.49.04:259][389]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.12.15-16.49.04:321][390]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2025.12.15-16.49.10:503][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.12.15-16.50.27:081][ 18]Cmd: EDIT COPY
+[2025.12.15-16.50.30:253][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.12.15-16.50.30:257][299]LogStreaming: Display: FlushAsyncLoading(737): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.15-16.50.30:272][299]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_Three
+[2025.12.15-16.50.30:275][299]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.50.30:275][299]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_Three.Level_Three:PersistentLevel.BP_Enemy_C_0.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.50.30:275][299]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.50.30:275][299]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_Three.Level_Three:PersistentLevel.BP_Enemy_C_1.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.50.30:275][299]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.50.30:275][299]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_Three.Level_Three:PersistentLevel.BP_Enemy_C_2.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.50.30:276][299]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.50.30:276][299]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_Three.Level_Three:PersistentLevel.BP_Enemy_C_3.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.50.30:276][299]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.50.30:276][299]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_Three.Level_Three:PersistentLevel.BP_Enemy_C_4.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.50.30:282][299]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level_Three.Level_Three
+[2025.12.15-16.50.30:282][299]Cmd: MAP LOAD FILE="D:/FinalProjectConsole/FinalProjectConsole/Content/Levels/Level_Three.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.12.15-16.50.30:299][299]LogWorld: UWorld::CleanupWorld for Level_One, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-16.50.30:299][299]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.15-16.50.30:299][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-16.50.30:327][299]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.15-16.50.30:332][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.12.15-16.50.30:334][299]LogWorld: UWorld::CleanupWorld for Level_Three, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-16.50.30:335][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-16.50.30:363][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.12.15-16.50.30:431][299]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.12.15-16.50.30:445][299]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_Three'.
+[2025.12.15-16.50.30:445][299]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_Three
+[2025.12.15-16.50.30:452][299]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.50.30:452][299]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_Three.Level_Three:PersistentLevel.BP_Enemy_C_0.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.50.30:453][299]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.50.30:453][299]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_Three.Level_Three:PersistentLevel.BP_Enemy_C_1.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.50.30:453][299]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.50.30:453][299]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_Three.Level_Three:PersistentLevel.BP_Enemy_C_2.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.50.30:453][299]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.50.30:453][299]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_Three.Level_Three:PersistentLevel.BP_Enemy_C_3.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.50.30:454][299]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.50.30:454][299]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_Three.Level_Three:PersistentLevel.BP_Enemy_C_4.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.50.30:477][299]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.12.15-16.50.30:504][299]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.12.15-16.50.30:509][299]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.12.15-16.50.30:509][299]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.074ms to complete.
+[2025.12.15-16.50.30:614][301]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.15-16.50.30:660][302]LogRenderer: Warning: [VSM] One Pass Projection max lights overflow. If you see shadow artifacts, decrease the amount of local lights per pixel, or increase r.Shadow.Virtual.OnePassProjection.MaxLightsPerPixel.
+[2025.12.15-16.50.32:238][481]Cmd: EDIT PASTE
+[2025.12.15-16.50.50:942][424]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.12.15-16.50.52:034][424]LogSlate: Window 'Save Content' being destroyed
+[2025.12.15-16.50.52:167][424]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-16.50.52:167][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level_Three" FILE="D:/FinalProjectConsole/FinalProjectConsole/Content/Levels/Level_Three.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.15-16.50.52:202][424]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.12.15-16.50.52:250][424]LogSavePackage: Moving output files for package: /Game/Levels/Level_Three
+[2025.12.15-16.50.52:250][424]LogSavePackage: Moving 'D:/FinalProjectConsole/FinalProjectConsole/Saved/Level_Three5EA331B746B9B9BB20F367AE6F767FC2.tmp' to 'D:/FinalProjectConsole/FinalProjectConsole/Content/Levels/Level_Three.umap'
+[2025.12.15-16.50.52:257][424]LogFileHelpers: Saving map 'Level_Three' took 0.090
+[2025.12.15-16.50.52:257][424]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.778 ms (total: 3.50 sec)
+[2025.12.15-16.50.52:257][424]LogStreaming: Display: FlushAsyncLoading(739): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.15-16.50.52:273][424]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_Two
+[2025.12.15-16.50.52:276][424]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.50.52:276][424]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_Two.Level_Two:PersistentLevel.BP_Enemy_C_0.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.50.52:276][424]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.50.52:276][424]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_Two.Level_Two:PersistentLevel.BP_Enemy_C_1.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.50.52:277][424]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.50.52:277][424]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_Two.Level_Two:PersistentLevel.BP_Enemy_C_2.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.50.52:277][424]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.50.52:277][424]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_Two.Level_Two:PersistentLevel.BP_Enemy_C_3.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.50.52:284][424]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level_Two.Level_Two
+[2025.12.15-16.50.52:284][424]Cmd: MAP LOAD FILE="D:/FinalProjectConsole/FinalProjectConsole/Content/Levels/Level_Two.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.12.15-16.50.52:301][424]LogWorld: UWorld::CleanupWorld for Level_Three, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-16.50.52:301][424]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-16.50.52:331][424]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.15-16.50.52:335][424]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.12.15-16.50.52:338][424]LogWorld: UWorld::CleanupWorld for Level_Two, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-16.50.52:339][424]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-16.50.52:366][424]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.12.15-16.50.52:391][424]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.12.15-16.50.52:406][424]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_Two'.
+[2025.12.15-16.50.52:407][424]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_Two
+[2025.12.15-16.50.52:414][424]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.50.52:414][424]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_Two.Level_Two:PersistentLevel.BP_Enemy_C_0.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.50.52:414][424]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.50.52:414][424]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_Two.Level_Two:PersistentLevel.BP_Enemy_C_1.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.50.52:415][424]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.50.52:415][424]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_Two.Level_Two:PersistentLevel.BP_Enemy_C_2.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.50.52:415][424]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.12.15-16.50.52:415][424]LogScript: Warning: Script Msg called by: Kallari_AnimBlueprint_C /Game/Levels/Level_Two.Level_Two:PersistentLevel.BP_Enemy_C_3.CharacterMesh0.Kallari_AnimBlueprint_C_0
+[2025.12.15-16.50.52:445][424]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.12.15-16.50.52:474][424]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.12.15-16.50.52:479][424]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.12.15-16.50.52:479][424]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.069ms to complete.
+[2025.12.15-16.50.52:549][424]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.15-16.50.52:549][424]LogContentValidation: Enabled validators:
+[2025.12.15-16.50.52:549][424]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-16.50.52:549][424]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-16.50.52:549][424]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-16.50.52:549][424]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-16.50.52:549][424]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-16.50.52:549][424]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-16.50.52:636][425]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 768
+[2025.12.15-16.50.52:722][426]LogRenderer: Warning: [VSM] One Pass Projection max lights overflow. If you see shadow artifacts, decrease the amount of local lights per pixel, or increase r.Shadow.Virtual.OnePassProjection.MaxLightsPerPixel.
+[2025.12.15-16.50.54:022][570]Cmd: EDIT PASTE
+[2025.12.15-16.51.04:121][619]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-16.51.04:162][619]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level_Two" FILE="D:/FinalProjectConsole/FinalProjectConsole/Content/Levels/Level_Two.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.15-16.51.04:201][619]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.12.15-16.51.04:358][619]LogSavePackage: Moving output files for package: /Game/Levels/Level_Two
+[2025.12.15-16.51.04:358][619]LogSavePackage: Moving 'D:/FinalProjectConsole/FinalProjectConsole/Saved/Level_TwoBD9386004D45BF4157585B8D7903D456.tmp' to 'D:/FinalProjectConsole/FinalProjectConsole/Content/Levels/Level_Two.umap'
+[2025.12.15-16.51.04:366][619]LogFileHelpers: Saving map 'Level_Two' took 0.204
+[2025.12.15-16.51.04:374][619]LogFileHelpers: InternalPromptForCheckoutAndSave took 253.015 ms (total: 3.75 sec)
+[2025.12.15-16.51.04:419][619]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.15-16.51.04:419][619]LogContentValidation: Enabled validators:
+[2025.12.15-16.51.04:419][619]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-16.51.04:419][619]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-16.51.04:419][619]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-16.51.04:419][619]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-16.51.04:419][619]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-16.51.04:419][619]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-16.51.04:419][619]AssetCheck: /Game/Levels/Level_Two Validating asset
+[2025.12.15-16.51.06:024][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms

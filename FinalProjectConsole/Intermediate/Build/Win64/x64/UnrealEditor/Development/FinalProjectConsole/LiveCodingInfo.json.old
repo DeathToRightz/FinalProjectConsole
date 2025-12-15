@@ -2,8 +2,10 @@
 	"RemapUnityFiles": 
 	{
 		"Module.FinalProjectConsole.cpp.obj": [
+			"EnemyController.gen.cpp.obj",
 			"EnemyControllerCopy.gen.cpp.obj",
 			"EnvQueryContext_Target.gen.cpp.obj",
+			"FinalProjectConsole.init.gen.cpp.obj",
 			"FinalProjectConsoleCameraManager.gen.cpp.obj",
 			"FinalProjectConsoleCharacter.gen.cpp.obj",
 			"FinalProjectConsoleGameMode.gen.cpp.obj",
@@ -28,6 +30,7 @@
 			"ShooterWeaponHolder.gen.cpp.obj",
 			"Trap.gen.cpp.obj",
 			"PerModuleInline.gen.cpp.obj",
+			"EnemyController.cpp.obj",
 			"FinalProjectConsole.cpp.obj",
 			"FinalProjectConsoleCameraManager.cpp.obj",
 			"FinalProjectConsoleCharacter.cpp.obj",
@@ -53,10 +56,7 @@
 			"ShooterPickup.cpp.obj",
 			"ShooterProjectile.cpp.obj",
 			"ShooterWeapon.cpp.obj",
-			"ShooterWeaponHolder.cpp.obj",
-			"EnemyController.gen.cpp.obj",
-			"FinalProjectConsole.init.gen.cpp.obj",
-			"EnemyController.cpp.obj"
+			"ShooterWeaponHolder.cpp.obj"
 		]
 	}
 }

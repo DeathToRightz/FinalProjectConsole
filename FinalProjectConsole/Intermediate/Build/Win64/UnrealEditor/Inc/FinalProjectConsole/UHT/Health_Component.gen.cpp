@@ -34,6 +34,7 @@ struct Z_Construct_UFunction_UHealth_Component_TakeDamage_Statics
 	};
 #if WITH_METADATA
 	static constexpr UECodeGen_Private::FMetaDataPairParam Function_MetaDataParams[] = {
+		{ "Category", "Stats" },
 		{ "ModuleRelativePath", "Health_Component.h" },
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_DamageType_MetaData[] = {
@@ -61,7 +62,7 @@ const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UFunction_UHealt
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_UHealth_Component_TakeDamage_Statics::NewProp_DamageCauser,
 };
 static_assert(UE_ARRAY_COUNT(Z_Construct_UFunction_UHealth_Component_TakeDamage_Statics::PropPointers) < 2048);
-const UECodeGen_Private::FFunctionParams Z_Construct_UFunction_UHealth_Component_TakeDamage_Statics::FuncParams = { { (UObject*(*)())Z_Construct_UClass_UHealth_Component, nullptr, "TakeDamage", Z_Construct_UFunction_UHealth_Component_TakeDamage_Statics::PropPointers, UE_ARRAY_COUNT(Z_Construct_UFunction_UHealth_Component_TakeDamage_Statics::PropPointers), sizeof(Z_Construct_UFunction_UHealth_Component_TakeDamage_Statics::Health_Component_eventTakeDamage_Parms), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x00020401, 0, 0, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UFunction_UHealth_Component_TakeDamage_Statics::Function_MetaDataParams), Z_Construct_UFunction_UHealth_Component_TakeDamage_Statics::Function_MetaDataParams)},  };
+const UECodeGen_Private::FFunctionParams Z_Construct_UFunction_UHealth_Component_TakeDamage_Statics::FuncParams = { { (UObject*(*)())Z_Construct_UClass_UHealth_Component, nullptr, "TakeDamage", Z_Construct_UFunction_UHealth_Component_TakeDamage_Statics::PropPointers, UE_ARRAY_COUNT(Z_Construct_UFunction_UHealth_Component_TakeDamage_Statics::PropPointers), sizeof(Z_Construct_UFunction_UHealth_Component_TakeDamage_Statics::Health_Component_eventTakeDamage_Parms), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04020401, 0, 0, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UFunction_UHealth_Component_TakeDamage_Statics::Function_MetaDataParams), Z_Construct_UFunction_UHealth_Component_TakeDamage_Statics::Function_MetaDataParams)},  };
 static_assert(sizeof(Z_Construct_UFunction_UHealth_Component_TakeDamage_Statics::Health_Component_eventTakeDamage_Parms) < MAX_uint16);
 UFunction* Z_Construct_UFunction_UHealth_Component_TakeDamage()
 {
@@ -181,7 +182,7 @@ struct Z_Construct_UClass_UHealth_Component_Statics
 	static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
 	static UObject* (*const DependentSingletons[])();
 	static constexpr FClassFunctionLinkInfo FuncInfo[] = {
-		{ &Z_Construct_UFunction_UHealth_Component_TakeDamage, "TakeDamage" }, // 2933287130
+		{ &Z_Construct_UFunction_UHealth_Component_TakeDamage, "TakeDamage" }, // 116017796
 		{ &Z_Construct_UFunction_UHealth_Component_TakeDamageDelay, "TakeDamageDelay" }, // 3605032474
 	};
 	static_assert(UE_ARRAY_COUNT(FuncInfo) < 2048);
@@ -235,10 +236,10 @@ UHealth_Component::~UHealth_Component() {}
 struct Z_CompiledInDeferFile_FID_FinalProjectConsole_Source_FinalProjectConsole_Health_Component_h__Script_FinalProjectConsole_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_UHealth_Component, UHealth_Component::StaticClass, TEXT("UHealth_Component"), &Z_Registration_Info_UClass_UHealth_Component, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UHealth_Component), 3184635439U) },
+		{ Z_Construct_UClass_UHealth_Component, UHealth_Component::StaticClass, TEXT("UHealth_Component"), &Z_Registration_Info_UClass_UHealth_Component, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UHealth_Component), 293637952U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_FinalProjectConsole_Source_FinalProjectConsole_Health_Component_h__Script_FinalProjectConsole_3329827233(TEXT("/Script/FinalProjectConsole"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_FinalProjectConsole_Source_FinalProjectConsole_Health_Component_h__Script_FinalProjectConsole_3261748215(TEXT("/Script/FinalProjectConsole"),
 	Z_CompiledInDeferFile_FID_FinalProjectConsole_Source_FinalProjectConsole_Health_Component_h__Script_FinalProjectConsole_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_FinalProjectConsole_Source_FinalProjectConsole_Health_Component_h__Script_FinalProjectConsole_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
