@@ -30,7 +30,6 @@
 			"ShooterWeaponHolder.gen.cpp.obj",
 			"Trap.gen.cpp.obj",
 			"PerModuleInline.gen.cpp.obj",
-			"EnemyController.cpp.obj",
 			"FinalProjectConsole.cpp.obj",
 			"FinalProjectConsoleCameraManager.cpp.obj",
 			"FinalProjectConsoleCharacter.cpp.obj",
@@ -56,7 +55,8 @@
 			"ShooterPickup.cpp.obj",
 			"ShooterProjectile.cpp.obj",
 			"ShooterWeapon.cpp.obj",
-			"ShooterWeaponHolder.cpp.obj"
+			"ShooterWeaponHolder.cpp.obj",
+			"EnemyController.cpp.obj"
 		]
 	}
 }

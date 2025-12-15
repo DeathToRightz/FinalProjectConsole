@@ -4,8 +4,10 @@
 
 #include "CoreMinimal.h"
 #include "AIController.h"
+#include "GameFramework/Character.h"
+#include "GameFramework/Pawn.h"
+#include "TimerManager.h"
 #include "EnemyController.generated.h"
-
 /**
  * 
  */
@@ -17,18 +19,20 @@ class FINALPROJECTCONSOLE_API AEnemyController : public AAIController
 public:
     AEnemyController();
 
-    UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = "Patrol Locations")
-    class AActor* Location01;
-
 protected:
     virtual void BeginPlay() override;
     virtual void Tick(float DeltaTime) override;
     float chaseDistance = 800.0f;
     float patrolTimeInterval = 5.f;
+    int patrolSpotNumber = 0;
 
     FVector currentPatrolLocation;
+    FVector Location01Coordinates;
+    FVector Location02Coordinates;
+    FVector Location03Coordinates;
     ACharacter* playerCharacter;
     APawn* enemyPawn;
+
 
 
 private:
@@ -37,6 +41,12 @@ private:
     void ChooseLocation();
 
     void OnMoveCompleted(struct FAIRequestID RequestID, const struct FPathFollowingResult& Result) override;
+    void OnPossess(APawn* InPawn) override;
 
     FTimerHandle patrolTimerHandle;
+
+
+public:
+    UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Patrol")
+    AActor* Location1;
 };

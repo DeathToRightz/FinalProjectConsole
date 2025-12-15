@@ -63,12 +63,12 @@ struct Z_Construct_UClass_AEnemyController_Statics
 		{ "IncludePath", "EnemyController.h" },
 		{ "ModuleRelativePath", "EnemyController.h" },
 	};
-	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_Location01_MetaData[] = {
-		{ "Category", "Patrol Locations" },
+	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_Location1_MetaData[] = {
+		{ "Category", "Patrol" },
 		{ "ModuleRelativePath", "EnemyController.h" },
 	};
 #endif // WITH_METADATA
-	static const UECodeGen_Private::FObjectPropertyParams NewProp_Location01;
+	static const UECodeGen_Private::FObjectPropertyParams NewProp_Location1;
 	static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
 	static UObject* (*const DependentSingletons[])();
 	static constexpr FCppClassTypeInfoStatic StaticCppClassTypeInfo = {
@@ -76,9 +76,9 @@ struct Z_Construct_UClass_AEnemyController_Statics
 	};
 	static const UECodeGen_Private::FClassParams ClassParams;
 };
-const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AEnemyController_Statics::NewProp_Location01 = { "Location01", nullptr, (EPropertyFlags)0x0010000000000015, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(AEnemyController, Location01), Z_Construct_UClass_AActor_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_Location01_MetaData), NewProp_Location01_MetaData) };
+const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AEnemyController_Statics::NewProp_Location1 = { "Location1", nullptr, (EPropertyFlags)0x0010000000000005, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(AEnemyController, Location1), Z_Construct_UClass_AActor_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_Location1_MetaData), NewProp_Location1_MetaData) };
 const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_AEnemyController_Statics::PropPointers[] = {
-	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AEnemyController_Statics::NewProp_Location01,
+	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AEnemyController_Statics::NewProp_Location1,
 };
 static_assert(UE_ARRAY_COUNT(Z_Construct_UClass_AEnemyController_Statics::PropPointers) < 2048);
 UObject* (*const Z_Construct_UClass_AEnemyController_Statics::DependentSingletons[])() = {
@@ -117,10 +117,10 @@ AEnemyController::~AEnemyController() {}
 struct Z_CompiledInDeferFile_FID_FinalProjectConsole_Source_FinalProjectConsole_EnemyController_h__Script_FinalProjectConsole_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_AEnemyController, AEnemyController::StaticClass, TEXT("AEnemyController"), &Z_Registration_Info_UClass_AEnemyController, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AEnemyController), 1263404035U) },
+		{ Z_Construct_UClass_AEnemyController, AEnemyController::StaticClass, TEXT("AEnemyController"), &Z_Registration_Info_UClass_AEnemyController, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AEnemyController), 2705192284U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_FinalProjectConsole_Source_FinalProjectConsole_EnemyController_h__Script_FinalProjectConsole_2067367055(TEXT("/Script/FinalProjectConsole"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_FinalProjectConsole_Source_FinalProjectConsole_EnemyController_h__Script_FinalProjectConsole_2342953532(TEXT("/Script/FinalProjectConsole"),
 	Z_CompiledInDeferFile_FID_FinalProjectConsole_Source_FinalProjectConsole_EnemyController_h__Script_FinalProjectConsole_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_FinalProjectConsole_Source_FinalProjectConsole_EnemyController_h__Script_FinalProjectConsole_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
