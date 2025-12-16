@@ -15,13 +15,13 @@ UHealth_Component::UHealth_Component()
 	if (!Owner) { return; }
 	else
 	{
-			GEngine->AddOnScreenDebugMessage
+	/*		GEngine->AddOnScreenDebugMessage
 	(
 		-1,
 		3.0f,
 		FColor::Red,
 		FString::Printf(TEXT("Owner Found"))
-	);
+	);*/
 
 		Owner->OnTakeAnyDamage.AddDynamic(this, &UHealth_Component::TakeDamage); //Bind the function
 	}
@@ -55,13 +55,13 @@ void UHealth_Component::TakeDamage(AActor* DamagedActor, float Damage, const UDa
 
 	Health = FMath::Clamp(Health - Damage, 0, Health); //Makes sure health doesn't go below 0
 
-	GEngine->AddOnScreenDebugMessage
+	/*GEngine->AddOnScreenDebugMessage
 	(
 		-1,
 		3.0f,
 		FColor::Red,
 		FString::Printf(TEXT("Current Health: %f"), Health)
-	);
+	);*/
 	
 	
 }
@@ -69,11 +69,11 @@ void UHealth_Component::TakeDamage(AActor* DamagedActor, float Damage, const UDa
 void UHealth_Component::TakeDamageDelay()
 {
 	CanBeDamaged = !CanBeDamaged;
-	GEngine->AddOnScreenDebugMessage
+	/*GEngine->AddOnScreenDebugMessage
 	(
 		-1,
 		3.0f,
 		FColor::Red,
 		FString::Printf(TEXT("Can be damaged"))
-	);
+	);*/
 }
