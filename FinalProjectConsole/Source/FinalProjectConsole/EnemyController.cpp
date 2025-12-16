@@ -1,4 +1,6 @@
-// Fill out your copyright notice in the Description page of Project Settings.
+// Final Project Assignment
+// Logan Cordova & Irina Mishina
+// 12/15/2025
 
 
 #include "EnemyController.h"
@@ -14,12 +16,7 @@ AEnemyController::AEnemyController()
     bAttachToPawn = true;
 }
 
-void AEnemyController::OnPossess(APawn* InPawn)
-{
-    Super::OnPossess(InPawn);
 
-    
-}
 
 void AEnemyController::BeginPlay()
 {
@@ -27,7 +24,7 @@ void AEnemyController::BeginPlay()
 
     enemyPawn = GetPawn();
 
-    if (enemyPawn)
+    if (enemyPawn)// finds the object (property in the game) by the name, sets it as an object property and assigns it to an object to then convert to an actor and get the actor's location for the patroling points. TLDR: gets the patroling points
     {
         FProperty* Actor01ByName = enemyPawn->GetClass()->FindPropertyByName("Location01");
         FProperty* Actor02ByName = enemyPawn->GetClass()->FindPropertyByName("Location02");
@@ -55,7 +52,7 @@ void AEnemyController::BeginPlay()
 
 }
 
-void AEnemyController::Tick(float DeltaTime)
+void AEnemyController::Tick(float DeltaTime)//Checks distance between the enemy and the player to determine whether the enemy should chase
 {
 
     Super::Tick(DeltaTime);
@@ -75,7 +72,7 @@ void AEnemyController::Tick(float DeltaTime)
 
 }
 
-void AEnemyController::ChasePlayer()
+void AEnemyController::ChasePlayer()//chases player based on current location
 {
     playerCharacter = UGameplayStatics::GetPlayerCharacter(GetWorld(), 0);
     if (!playerCharacter) return;
@@ -83,12 +80,12 @@ void AEnemyController::ChasePlayer()
     MoveToLocation(playerCharacter->GetActorLocation());
 }
 
-void AEnemyController::Patrol()
+void AEnemyController::Patrol()//moves to the patrol location set
 {
     MoveToLocation(currentPatrolLocation);
 }
 
-void AEnemyController::ChooseLocation()
+void AEnemyController::ChooseLocation()//sets the patrol location depending on the "sequence" step and resets when completed
 {
     enemyPawn = GetPawn();
     FVector origin = enemyPawn->GetActorLocation();
@@ -124,7 +121,7 @@ void AEnemyController::ChooseLocation()
 }
 
 
-void AEnemyController::OnMoveCompleted(FAIRequestID RequestID, const FPathFollowingResult& Result)
+void AEnemyController::OnMoveCompleted(FAIRequestID RequestID, const FPathFollowingResult& Result)//checks when the enemy completed its move (patrol) to start a delay timer in between the walking
 {
     Super::OnMoveCompleted(RequestID, Result);
 

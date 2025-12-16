@@ -1,4 +1,6 @@
-// Fill out your copyright notice in the Description page of Project Settings.
+// Final Project Assignment
+// Logan Cordova & Irina Mishina
+// 12/15/2025
 
 #include "Kismet/GameplayStatics.h"
 #include "FinalProjectConsoleCharacter.h"
